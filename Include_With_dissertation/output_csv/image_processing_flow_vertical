@@ -1,0 +1,92 @@
+digraph {
+	dpi=300 rankdir=TB
+	A [label="Extracted Set [Approx 100K images]" fillcolor=lightblue shape=box style=filled]
+	B [label="Job_23 now in \"Reduced set\"
+ High quality set 
+(Job_24: 2400 images - 2 GB)" fillcolor=lightblue shape=box style=filled]
+	BB [label="Job_51 now in \"Reduced set\"
+(Job_24: 1595 images - 1.3 GB) 
+ \"Rare\" Green Cost flag coexists 
+ with incorrectly hanging red-yellow flag" fillcolor=lightblue shape=box style=filled]
+	BBB [label="Job_37 now in \"Reduced set\" [3264 images]" fillcolor=lightblue shape=box style=filled]
+	C [label=1 fillcolor=lightblue shape=circle style=filled]
+	CC [label="Job_51_illum
+ Improved illumination" fillcolor=lightyellow shape=box style=filled]
+	CCC [label="CCC Job_37" fillcolor=lightyellow shape=box style=filled]
+	DD [label="Job_51_illum
+ Green Coast flag with partial Red flag" fillcolor=lightyellow shape=box style=filled]
+	DDD [label=2 fillcolor=lightyellow shape=circle style=filled]
+	EEE [label=Job_37_Aug fillcolor=lightyellow shape=box style=filled]
+	EE [label="Job_51_illum
+ Green Coast flag/Red flag filled - Some unsuitable" fillcolor=lightyellow shape=box style=filled]
+	FF [label="Job_51_Processed
+ Green Coast flag only/Red flag removed" fillcolor=lightyellow shape=box style=filled]
+	FFF [label=Job_37_Aug_illum fillcolor=lightyellow shape=box style=filled]
+	GG [label="Job_51_processed 
+ Added to \"Selected\" set (178 images - 166MB )" fillcolor=lightpink shape=box style=filled]
+	GGG [label="" fillcolor=lightpink shape=circle style=filled]
+	HH [label="Job_51_processed 
+ (87 images, 81MB )" fillcolor=lightpink shape=box style=filled]
+	II [label=Job_51_processed fillcolor=lightgreen shape=box style=filled]
+	D1 [label="Job_23: Flag Overlap
+(2200 images)" fillcolor=lightyellow shape=box style=filled]
+	D2 [label="Job_23_filtered: No Overlap
+(260 images)" fillcolor=lightyellow shape=box style=filled]
+	E1 [label="Job_23: 220 images" fillcolor=lightyellow shape=box style=filled]
+	F [label="Added to \"Selected\" Set" fillcolor=lightpink shape=box style=filled]
+	G1 [label="Keep 1 in 3 from Job_23 
+(now 148 images)" fillcolor=lightpink shape=box style=filled]
+	G2 [label="Keep 1 in 3 from Job_23_filtered 
+(85 images)" fillcolor=lightpink shape=box style=filled]
+	H1 [label="Job_23 (148 images) 
+ Job_23_Aug (148 images) 
+ [296 images]" fillcolor=lightcoral shape=box style=filled]
+	H2 [label="Job_23_filtered (85 images) 
+ Job_23_filtered_Aug (85 images)" fillcolor=lightcoral shape=box style=filled]
+	I1 [label="Job_23 (74 images) 
+ Job_23_Aug (73 images)" fillcolor=lightgreen shape=box style=filled]
+	I2 [label="Job_23_filter (43 images) 
+ Job_23_filter_Aug (42 images)" fillcolor=lightgreen shape=box style=filled]
+	I [label="Merged set \"Job_23_Flt_Job_23_Flt_Aug_Mrg\" 
+(85 images / 80MB)" fillcolor=lightgreen shape=box style=filled]
+	J [label="Merged set \"Job_23_Job_23_Aug_Mrg\" 
+ (147 images, 129MB)" fillcolor=lightgreen shape=box style=filled]
+	A -> B [label="Copy \"Extracted\" set to create \"Reduced\" set"]
+	A -> BB [label=""]
+	A -> BBB [label=""]
+	B -> C [label="Separate images based on overlap with blue flag"]
+	BB -> CC [label="Rare Green Coast Class underexposed 
+Improve illumination
+(optimise for hsv related processing)"]
+	BBB -> CCC [label="Reduce using Structural Similarity Index (SSIM)"]
+	CC -> DD [label="Processing sequence to remove 
+incorrectly hanging red flag 
+ 1. Remove red flag segment 
+ that does not intersect with Green Coast by BG fill"]
+	CCC -> DDD [label=" "]
+	CCC -> GGG [label="Adjust illumination"]
+	DDD -> EEE [label="Augmentation - Scale"]
+	EEE -> FFF [label="Augmentation - Adjust illumination me"]
+	DD -> EE [label="2. Fill red flag remnants where bounding box 
+ overlaps with Green Coast flag using hsv colour thresholds"]
+	EE -> FF [label="3. Select suitable images where red flag is removed cleanly"]
+	C -> D1 [label="Blue flag overlaps red flag"]
+	C -> D2 [label="Blue flags do not overlap"]
+	D1 -> E1 [label="Keep 1 in 10"]
+	E1 -> F [label="Copy to \"Selected\""]
+	D2 -> F [label="Copy to \"Selected\""]
+	FF -> GG [label="Copy to \"Selected\""]
+	GG -> HH [label="Delete by pattern"]
+	F -> G1 [label="Analyze images, devise plan"]
+	F -> G2 [label="Analyze Quality & Size"]
+	G1 -> H1 [label="Augmentation sequence (e.g. Scale)"]
+	G2 -> H2 [label="Augmentation sequence (e.g. Scale)"]
+	H1 -> I1 [label="Analyse quantity/quality -> 
+ Splice folders to delete alternate images"]
+	H2 -> I2 [label="Analyse quantity/quality -> 
+ Splice folders to delete altenrate images"]
+	HH -> II [label="Analyse quantity/quality -> 
+ Selectively reduce"]
+	I1 -> J [label="Merge spliced folders of original and augmented images"]
+	I2 -> I [label="Merge spliced folders of original and augmented images"]
+}

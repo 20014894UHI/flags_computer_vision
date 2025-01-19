@@ -1,0 +1,5 @@
+Subfolder,Image Count,Annotation Count,Total Image Size (MB),All Image/Annotation Pairs Present,red_flag,red_yellow_flag,blue_flag,green_coast,flagpole,parasol,surf_zone,non_beach_flag,other_beach_flag,surf_kite,wind_sock
+train,6127,6127,1278.74,True,2723,2692,3855,152,5333,18,71,1,9,0,2
+test,1312,1312,275.19,True,434,699,850,16,994,9,9,2,12,2,1
+val,1312,1312,282.42,True,424,722,901,16,1044,6,13,2,11,1,0
+TOTAL,8751,8751,1836.35 MB (1.79 GB),,3581,4113,5606,184,7371,33,93,5,32,3,3

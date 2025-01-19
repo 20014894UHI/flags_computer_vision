@@ -1,0 +1,2 @@
+Job,Exported from CVAT,After filtering using SSIM with Threshold of 97.5%,Retained % at 97.5% Threshold,SSIM Percentage Trialled,Notes,Change next round,New threshold
+Job_123,300,252,84.0,97.5,,Reduce threshold,92

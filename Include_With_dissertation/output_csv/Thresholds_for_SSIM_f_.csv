@@ -1,0 +1,65 @@
+Job,Exported from CVAT,After filtering using SSIM with Threshold of 97.5%,SSIM Percentage Trialled,Retained % at R1 Threshold,Round 2 Threshold,retained prcent R2,Notes,New threshold,Copied Images_x,Copied Images_y
+Job_97,293,293.0,97.5,100.0,,,Needs manual reduction as handheld mobile camera,,,293
+Job_96,300,300.0,97.5,100.0,0.95,89.0,,0.94,,147
+Job_95,348,348.0,97.5,100.0,0.95,58.6,,0.95,,204
+Job_88,708,558.0,97.5,78.8,0.97,48.0,,0.97,,339
+Job_76,540,540.0,97.5,100.0,0.97,99.0,,0.96,,305
+Job_73,601,601.0,97.5,100.0,0.97,100.0,,0.96,,455
+Job_70,501,500.0,97.5,99.8,0.95,58.0,Sea movement in the background. Decrease the threshold to exclude more,0.95,,292
+Job_69,297,271.0,97.5,91.3,0.96,53.0,,0.96,,158
+Job_65,588,548.0,97.5,93.2,0.96,61.0,,0.96,,276
+Job_50,181,181.0,97.5,100.0,0.95,54.0,Reviewed results and too much if anything. ,0.95,,97
+Job_48,1584,1550.0,97.5,97.9,0.97,77.0,,0.962,,545
+Job_42,1536,1536.0,97.5,100.0,0.965,70.0,,0.962,,768
+Job_29,1301,1103.0,97.5,84.8,0.965,46.0,,0.965,,592
+Job_28,982,966.0,97.5,98.4,0.95,50.0,,0.95,,497
+Job_27,4264,4264.0,97.5,100.0,0.94,44.0,,0.94,,1906
+Job_25,2500,2500.0,97.5,100.0,0.94,46.0,,0.94,,1166
+Job_24,501,501.0,97.5,100.0,0.95,56.0,,0.95,,283
+Job_23,2485,2484.0,97.5,100.0,0.95,55.0,,0.95,,1390
+Job_21,41,41.0,97.5,100.0,0.95,,This dataset is in steps of 5 anyway so sufficiently differentiated. ,0.95,,41
+Job_126,351,223.0,97.5,63.5,0.95,44.0,Was Not very differentiated at 97.5%. Tripod was not used and may have affected output.  NO need for more. 44% at 95%T,0.95,,153
+Job_123,300,252.0,97.5,84.0,0.94,57.0,,0.94,,172
+Job_121,348,259.0,97.5,74.4,0.95,52.0,,0.95,,181
+Job_119,444,344.0,97.5,77.5,0.965,43.0,"Results look ok despite this.However,will increase output marginally. ",0.965,,195
+Job_118,312,210.0,97.5,67.3,0.955,44.0,Results look ok,0.955,,138
+Job_115,312,210.0,97.5,67.3,0.955,44.0,Results look ok.,0.955,,138
+Job_114,288,223.0,97.5,77.4,0.95,54.0,,0.95,,156
+Job_108,51,50.0,97.5,98.0,0.95,96.0,Tripod notused.  Would need to be manually selected. 96% retained at 95%,0.95,,49
+Job_106,360,270.0,97.5,75.0,0.95,46.0,,0.95,,167
+Job_104,768,512.0,97.5,66.7,0.95,40.0,Tripod not used.,0.95,,312
+Job_89,744,451.0,97.5,60.6,0.95,60.0,,0.95,,11
+Job_72,2622,1542.0,97.5,58.8,0.975,58.0,Sea movement in the background. ,0.975,,1542
+Job_67,97,61.0,97.5,62.9,0.975,63.0,.ASmall dataset and has already been reduced manually.,0.975,,61
+Job_55,528,261.0,97.5,49.4,0.975,49.0,,0.975,,261
+Job_54,601,355.0,97.5,59.1,0.975,59.0,,0.975,,355
+Job_37,1001,189.0,97.5,18.9,0.975,,"Despite the low percentage, the outcome looks adequate. ",0.975,,189
+Job_131,540,241.0,97.5,44.6,0.975,44.0,Tripod was not used affecting output,0.975,,241
+Job_130,552,252.0,97.5,45.7,0.975,45.0,Tripod was not used affecting output,0.975,,252
+Job_13,401,108.0,97.5,26.9,0.98,39.0,,0.985,,230
+Job_128,532,135.0,97.5,25.4,0.98,32.0,"Tripod not used. Despite the low percentage, the outcome looks adequate. ",0.98,,168
+Job_125,384,128.0,97.5,33.3,0.98,40.0,33% retained at 97.5%.,0.98,,153
+Job_117,444,63.0,97.5,14.2,0.98,23.0,Ok despite low ratio,0.98,,105
+Job_87,1128,129.0,97.5,11.4,0.98,24.0,Good dataset,0.985,,560
+Job_8,802,464.0,97.5,57.9,0.9775,69.0,"First iteration  at 97.5 % ok, but could filter more to capture more states of movement. Then 2nd at 98% retained 79%.",0.9775,,559
+Job_7,725,387.0,97.5,53.4,0.9775,66.0,Had aimed to captur more movement/states.  77% at 98%,0.9775,,483
+Job_61,551,49.0,97.5,8.9,0.985,61.0,"Output looks ok, steps of 11-15-20 but could increaes threshold slightly. ",0.985,,253
+Job_60,1620,81.0,97.5,5.0,0.99,14.0,66.4,0.99,,1076
+Job_59,201,23.0,97.5,11.4,0.99,45.0,"Output looks ok, steps of 11-15-20 but could increaes the threshold slightly. ",0.99,,91
+Job_57,528,37.0,97.5,7.0,0.99,29.0,,0.995,,414
+Job_18,400,11.0,97.5,2.8,0.99,64.0,Increase the threshold as insufficient images remaining,0.99,,256
+Job_17,400,20.0,97.5,5.0,0.99,64.0,"Increase the threshold slightly. Percentage filtered is low, but background is very static and the filtered images are a good representation. Very little flag movement on a calm with a clear sky. ",0.99,,258
+Job_16,400,16.0,97.5,4.0,0.99,47.0,"Increase the threshold slightly. Percentage filtered is low, but background is very static and the filtered images are a good representation. Very little flag movement on a calm with a clear sky. ",0.99,,190
+Job_15,400,20.0,97.5,5.0,0.99,54.0,"Increase the threshold slightly. Percentage filtered is low, but background is very static and the filtered images are a good representation. Very little flag movement on a calm with a clear sky. ",0.99,,215
+Job_12,900,74.0,97.5,8.2,0.99,80.0,Up to capture more. R1: Skipped appeox 100 images at the start when wind was v light. ,0.985,,441
+Job_11,700,1.0,97.5,0.1,0.99,69.0,,0.979,,46
+Job_152,68,63.0,97.5,92.7,,,"OK. Random images, not video frames. ",,,68
+Job_56,276,,,,0.975,35.0,,0.98,,125
+Job_105,804,,,,0.975,42.5,,0.975,,342
+Job_116,301,,,,0.95,56.0,,0.95,,171
+Job_142,528,,,,0.98,16.0,unusual,0.99,,258
+Job_143,132,,,,0.95,64.0,,0.95,,85
+Job_145,21,,,,0.95,,,0.95,,21
+Job_146,12,,,,0.95,100.0,,0.95,,12
+Job_147,528,,,,0.975,46.0,,0.975,,246
+Job_151,10,,,,,100.0,,,,10

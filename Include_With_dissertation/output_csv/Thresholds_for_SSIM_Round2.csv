@@ -1,0 +1,57 @@
+Job,Exported from CVAT,After filtering using SSIM with Threshold of 97.5%,Retained % at 97.5% Threshold,SSIM Percentage Trialled,,,New threshold
+Job_126,351,223,63.5,97.5,Not very differentiated. Tripod was not used and may have affected output.  NO need for more. ,Candidate for  reducing threshold. ,95
+Job_104,768,512,66.7,97.5,,Candidate for  reducing threshold. ,95
+Job_115,312,210,67.3,97.5,,Candidate for  reducing threshold. ,95
+Job_118,312,210,67.3,97.5,,Candidate for  reducing threshold. ,95
+Job_121,348,259,74.4,97.5,,Candidate for  reducing threshold. ,95
+Job_106,360,270,75.0,97.5,,Candidate for  reducing threshold. ,95
+Job_114,288,223,77.4,97.5,,Reduce threshold,95
+Job_119,444,344,77.5,97.5,,Reduce threshold,95
+Job_88,708,558,78.8,97.5,,Reduce threshold,95
+Job_123,300,252,84.0,97.5,,Reduce threshold,95
+Job_29,1301,1103,84.8,97.5,,Reduce threshold,95
+Job_69,297,271,91.3,97.5,,Reduce threshold,95
+Job_65,588,548,93.2,97.5,,Reduce threshold,95
+Job_48,1584,1550,97.9,97.5,,Reduce threshold,95
+Job_108,51,50,98.0,97.5,,Reduce threshold,95
+Job_28,982,966,98.4,97.5,,Reduce threshold,95
+Job_70,501,500,99.8,97.5,Sea movement in the background. Decrease the threshold to exclude more,Reduce threshold,95
+Job_23,2485,2484,100.0,97.5,,Reduce threshold,95
+Job_21,41,41,100.0,97.5,,Reduce threshold,95
+Job_24,501,501,100.0,97.5,,Reduce threshold,95
+Job_25,2500,2500,100.0,97.5,,Reduce threshold,95
+Job_27,4264,4264,100.0,97.5,,Reduce threshold,95
+Job_42,1536,1536,100.0,97.5,,Reduce threshold,95
+Job_50,181,181,100.0,97.5,,Reduce threshold,95
+Job_73,601,601,100.0,97.5,,Reduce threshold,95
+Job_76,540,540,100.0,97.5,,Reduce threshold,95
+Job_95,348,348,100.0,97.5,,Reduce threshold,95
+Job_96,300,300,100.0,97.5,,Reduce threshold,95
+Job_97,293,293,100.0,97.5,,Reduce threshold,95
+Job_117,444,63,14.2,97.5,ok,ok,97.5
+Job_37,1001,189,18.9,97.5,ok,ok,97.5
+Job_128,532,135,25.4,97.5,ok,ok,97.5
+Job_13,401,108,26.9,97.5,ok,ok,97.5
+Job_125,384,128,33.3,97.5,ok,ok,97.5
+Job_131,540,241,44.6,97.5,Tripod was not used affecting output,OK,97.5
+Job_130,552,252,45.7,97.5,Tripod was not used affecting output,OK,97.5
+Job_55,528,261,49.4,97.5,,OK,97.5
+Job_72,2622,1542,58.8,97.5,Sea movement in the background. ,OK,97.5
+Job_54,601,355,59.1,97.5,,OK,97.5
+Job_89,744,451,60.6,97.5,,OK,97.5
+Job_67,97,61,62.9,97.5,,OK,97.5
+Job_11,700,1,0.1,97.5,,Increase the threshold ,98
+Job_18,400,11,2.8,97.5,Increase the threshold as insufficient images remaining,Increase the threshold ,98
+Job_16,400,16,4.0,97.5,"Increase the threshold slightly. Percentage filtered is low, but background is very static and the filtered images are a good representation. Very little flag movement on a calm with a clear sky. ",Increase the threshold ,98
+Job_15,400,20,5.0,97.5,"Increase the threshold slightly. Percentage filtered is low, but background is very static and the filtered images are a good representation. Very little flag movement on a calm with a clear sky. ",Increase the threshold ,98
+Job_17,400,20,5.0,97.5,"Increase the threshold slightly. Percentage filtered is low, but background is very static and the filtered images are a good representation. Very little flag movement on a calm with a clear sky. ",Increase the threshold ,98
+Job_60,1620,81,5.0,97.5,,Increase the threshold ,98
+Job_57,528,37,7.0,97.5,ok but could take more ,Increase the threshold ,98
+Job_12,900,74,8.2,97.5,Skipped appeox 100 images at the start when wind was v light. ,Increase the threshold ,98
+Job_61,551,49,8.9,97.5,"Output looks ok, steps of 11-15-20 but could increaes the threshold slightly. ",Increase the threshold ,98
+Job_59,201,23,11.4,97.5,"Output looks ok, steps of 11-15-20 but could increaes the threshold slightly. ",Increase the threshold ,98
+Job_87,1128,129,11.4,97.5,ok,Candidate for increasing the threshold slightly. ,98
+Job_7,725,387,53.4,97.5,ok but could filter more to capture more states of movement,Candidate for increasing the threshold slightly. ,98
+Job_8,802,464,57.9,97.5,ok but could filter more to capture more states of movement,Candidate for increasing the threshold slightly. ,98
+Job_152,68,63,92.7,97.5,"OK. Random images, not video frames. ",Do not filter.,100
+Total,40354,26799,,,,,
