@@ -1,0 +1,2799 @@
+285 images in D:\FlagDetectionDatasets\ExportedDatasetsReduced\Job_27\obj_train_data.
+Similarity between frame_000500.PNG and frame_000501.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000501.PNG to output folder.
+Similarity between frame_000501.PNG and frame_000503.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000503.PNG to output folder.
+Similarity between frame_000503.PNG and frame_000504.PNG: 0.84
+Similarity between frame_000504.PNG and frame_000510.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000510.PNG to output folder.
+Similarity between frame_000510.PNG and frame_000511.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000511.PNG to output folder.
+Similarity between frame_000511.PNG and frame_000512.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000512.PNG to output folder.
+Similarity between frame_000512.PNG and frame_000515.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000515.PNG to output folder.
+Similarity between frame_000515.PNG and frame_000520.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000520.PNG to output folder.
+Similarity between frame_000520.PNG and frame_000521.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000521.PNG to output folder.
+Similarity between frame_000521.PNG and frame_000522.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000522.PNG to output folder.
+Similarity between frame_000522.PNG and frame_000527.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000527.PNG to output folder.
+Similarity between frame_000527.PNG and frame_000529.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000529.PNG to output folder.
+Similarity between frame_000529.PNG and frame_000530.PNG: 0.83
+  --- Images are dissimilar. Copying frame_000530.PNG to output folder.
+Similarity between frame_000530.PNG and frame_000532.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000532.PNG to output folder.
+Similarity between frame_000532.PNG and frame_000538.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000538.PNG to output folder.
+Similarity between frame_000538.PNG and frame_000539.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000539.PNG to output folder.
+Similarity between frame_000539.PNG and frame_000540.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000540.PNG to output folder.
+Similarity between frame_000540.PNG and frame_000552.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000552.PNG to output folder.
+Similarity between frame_000552.PNG and frame_000554.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000554.PNG to output folder.
+Similarity between frame_000554.PNG and frame_000555.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000555.PNG to output folder.
+Similarity between frame_000555.PNG and frame_000556.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000556.PNG to output folder.
+Similarity between frame_000556.PNG and frame_000557.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000557.PNG to output folder.
+Similarity between frame_000557.PNG and frame_000558.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000558.PNG to output folder.
+Similarity between frame_000558.PNG and frame_000559.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000559.PNG to output folder.
+Similarity between frame_000559.PNG and frame_000560.PNG: 0.84
+Similarity between frame_000560.PNG and frame_000564.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000564.PNG to output folder.
+Similarity between frame_000564.PNG and frame_000569.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000569.PNG to output folder.
+Similarity between frame_000569.PNG and frame_000578.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000578.PNG to output folder.
+Similarity between frame_000578.PNG and frame_000582.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000582.PNG to output folder.
+Similarity between frame_000582.PNG and frame_000585.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000585.PNG to output folder.
+Similarity between frame_000585.PNG and frame_000586.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000586.PNG to output folder.
+Similarity between frame_000586.PNG and frame_000587.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000587.PNG to output folder.
+Similarity between frame_000587.PNG and frame_000588.PNG: 0.85
+Similarity between frame_000588.PNG and frame_000590.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000590.PNG to output folder.
+Similarity between frame_000590.PNG and frame_000595.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000595.PNG to output folder.
+Similarity between frame_000595.PNG and frame_000596.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000596.PNG to output folder.
+Similarity between frame_000596.PNG and frame_000597.PNG: 0.86
+Similarity between frame_000597.PNG and frame_000598.PNG: 0.85
+Similarity between frame_000598.PNG and frame_000603.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000603.PNG to output folder.
+Similarity between frame_000603.PNG and frame_000604.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000604.PNG to output folder.
+Similarity between frame_000604.PNG and frame_000619.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000619.PNG to output folder.
+Similarity between frame_000619.PNG and frame_000622.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000622.PNG to output folder.
+Similarity between frame_000622.PNG and frame_000623.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000623.PNG to output folder.
+Similarity between frame_000623.PNG and frame_000624.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000624.PNG to output folder.
+Similarity between frame_000624.PNG and frame_000634.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000634.PNG to output folder.
+Similarity between frame_000634.PNG and frame_000661.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000661.PNG to output folder.
+Similarity between frame_000661.PNG and frame_000662.PNG: 0.83
+Similarity between frame_000662.PNG and frame_000663.PNG: 0.84
+Similarity between frame_000663.PNG and frame_000664.PNG: 0.85
+Similarity between frame_000664.PNG and frame_000673.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000673.PNG to output folder.
+Similarity between frame_000673.PNG and frame_000674.PNG: 0.84
+Similarity between frame_000674.PNG and frame_000675.PNG: 0.83
+Similarity between frame_000675.PNG and frame_000679.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000679.PNG to output folder.
+Similarity between frame_000679.PNG and frame_000682.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000682.PNG to output folder.
+Similarity between frame_000682.PNG and frame_000683.PNG: 0.86
+Similarity between frame_000683.PNG and frame_000685.PNG: 0.83
+  --- Images are dissimilar. Copying frame_000685.PNG to output folder.
+Similarity between frame_000685.PNG and frame_000686.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000686.PNG to output folder.
+Similarity between frame_000686.PNG and frame_000715.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000715.PNG to output folder.
+Similarity between frame_000715.PNG and frame_000716.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000716.PNG to output folder.
+Similarity between frame_000716.PNG and frame_000742.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000742.PNG to output folder.
+Similarity between frame_000742.PNG and frame_000743.PNG: 0.87
+Similarity between frame_000743.PNG and frame_000750.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000750.PNG to output folder.
+Similarity between frame_000750.PNG and frame_000751.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000751.PNG to output folder.
+Similarity between frame_000751.PNG and frame_000752.PNG: 0.83
+Similarity between frame_000752.PNG and frame_000759.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000759.PNG to output folder.
+Similarity between frame_000759.PNG and frame_000760.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000760.PNG to output folder.
+Similarity between frame_000760.PNG and frame_000761.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000761.PNG to output folder.
+Similarity between frame_000761.PNG and frame_000762.PNG: 0.83
+  --- Images are dissimilar. Copying frame_000762.PNG to output folder.
+Similarity between frame_000762.PNG and frame_000766.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000766.PNG to output folder.
+Similarity between frame_000766.PNG and frame_000767.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000767.PNG to output folder.
+Similarity between frame_000767.PNG and frame_000768.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000768.PNG to output folder.
+Similarity between frame_000768.PNG and frame_000770.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000770.PNG to output folder.
+Similarity between frame_000770.PNG and frame_000771.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000771.PNG to output folder.
+Similarity between frame_000771.PNG and frame_000774.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000774.PNG to output folder.
+Similarity between frame_000774.PNG and frame_000786.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000786.PNG to output folder.
+Similarity between frame_000786.PNG and frame_000787.PNG: 0.85
+Similarity between frame_000787.PNG and frame_000788.PNG: 0.83
+Similarity between frame_000788.PNG and frame_000789.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000789.PNG to output folder.
+Similarity between frame_000789.PNG and frame_000795.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000795.PNG to output folder.
+Similarity between frame_000795.PNG and frame_000796.PNG: 0.74
+  --- Images are dissimilar. Copying frame_000796.PNG to output folder.
+Similarity between frame_000796.PNG and frame_000797.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000797.PNG to output folder.
+Similarity between frame_000797.PNG and frame_000804.PNG: 0.72
+  --- Images are dissimilar. Copying frame_000804.PNG to output folder.
+Similarity between frame_000804.PNG and frame_000805.PNG: 0.83
+  --- Images are dissimilar. Copying frame_000805.PNG to output folder.
+Similarity between frame_000805.PNG and frame_000809.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000809.PNG to output folder.
+Similarity between frame_000809.PNG and frame_000810.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000810.PNG to output folder.
+Similarity between frame_000810.PNG and frame_000812.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000812.PNG to output folder.
+Similarity between frame_000812.PNG and frame_000813.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000813.PNG to output folder.
+Similarity between frame_000813.PNG and frame_000814.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000814.PNG to output folder.
+Similarity between frame_000814.PNG and frame_000815.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000815.PNG to output folder.
+Similarity between frame_000815.PNG and frame_000816.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000816.PNG to output folder.
+Similarity between frame_000816.PNG and frame_000817.PNG: 0.84
+Similarity between frame_000817.PNG and frame_000818.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000818.PNG to output folder.
+Similarity between frame_000818.PNG and frame_000822.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000822.PNG to output folder.
+Similarity between frame_000822.PNG and frame_000825.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000825.PNG to output folder.
+Similarity between frame_000825.PNG and frame_000826.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000826.PNG to output folder.
+Similarity between frame_000826.PNG and frame_000838.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000838.PNG to output folder.
+Similarity between frame_000838.PNG and frame_000839.PNG: 0.83
+Similarity between frame_000839.PNG and frame_000843.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000843.PNG to output folder.
+Similarity between frame_000843.PNG and frame_000844.PNG: 0.85
+Similarity between frame_000844.PNG and frame_000845.PNG: 0.85
+Similarity between frame_000845.PNG and frame_000846.PNG: 0.84
+Similarity between frame_000846.PNG and frame_000847.PNG: 0.83
+Similarity between frame_000847.PNG and frame_000848.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000848.PNG to output folder.
+Similarity between frame_000848.PNG and frame_000850.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000850.PNG to output folder.
+Similarity between frame_000850.PNG and frame_000851.PNG: 0.84
+Similarity between frame_000851.PNG and frame_000852.PNG: 0.84
+Similarity between frame_000852.PNG and frame_000853.PNG: 0.83
+Similarity between frame_000853.PNG and frame_000854.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000854.PNG to output folder.
+Similarity between frame_000854.PNG and frame_000855.PNG: 0.83
+Similarity between frame_000855.PNG and frame_000857.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000857.PNG to output folder.
+Similarity between frame_000857.PNG and frame_000858.PNG: 0.84
+Similarity between frame_000858.PNG and frame_000859.PNG: 0.84
+Similarity between frame_000859.PNG and frame_000860.PNG: 0.83
+Similarity between frame_000860.PNG and frame_000885.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000885.PNG to output folder.
+Similarity between frame_000885.PNG and frame_000890.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000890.PNG to output folder.
+Similarity between frame_000890.PNG and frame_000891.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000891.PNG to output folder.
+Similarity between frame_000891.PNG and frame_000892.PNG: 0.83
+  --- Images are dissimilar. Copying frame_000892.PNG to output folder.
+Similarity between frame_000892.PNG and frame_000906.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000906.PNG to output folder.
+Similarity between frame_000906.PNG and frame_000908.PNG: 0.84
+Similarity between frame_000908.PNG and frame_000909.PNG: 0.85
+Similarity between frame_000909.PNG and frame_000920.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000920.PNG to output folder.
+Similarity between frame_000920.PNG and frame_000921.PNG: 0.84
+Similarity between frame_000921.PNG and frame_000922.PNG: 0.85
+Similarity between frame_000922.PNG and frame_000923.PNG: 0.85
+Similarity between frame_000923.PNG and frame_000929.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000929.PNG to output folder.
+Similarity between frame_000929.PNG and frame_000933.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000933.PNG to output folder.
+Similarity between frame_000933.PNG and frame_000935.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000935.PNG to output folder.
+Similarity between frame_000935.PNG and frame_000938.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000938.PNG to output folder.
+Similarity between frame_000938.PNG and frame_000939.PNG: 0.85
+Similarity between frame_000939.PNG and frame_000944.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000944.PNG to output folder.
+Similarity between frame_000944.PNG and frame_000975.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000975.PNG to output folder.
+Similarity between frame_000975.PNG and frame_000980.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000980.PNG to output folder.
+Similarity between frame_000980.PNG and frame_000982.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000982.PNG to output folder.
+Similarity between frame_000982.PNG and frame_000983.PNG: 0.85
+Similarity between frame_000983.PNG and frame_000984.PNG: 0.84
+Similarity between frame_000984.PNG and frame_000986.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000986.PNG to output folder.
+Similarity between frame_000986.PNG and frame_000987.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000987.PNG to output folder.
+Similarity between frame_000987.PNG and frame_000989.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000989.PNG to output folder.
+Similarity between frame_000989.PNG and frame_000990.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000990.PNG to output folder.
+Similarity between frame_000990.PNG and frame_000991.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000991.PNG to output folder.
+Similarity between frame_000991.PNG and frame_000992.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000992.PNG to output folder.
+Similarity between frame_000992.PNG and frame_000993.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000993.PNG to output folder.
+Similarity between frame_000993.PNG and frame_000994.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000994.PNG to output folder.
+Similarity between frame_000994.PNG and frame_000995.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000995.PNG to output folder.
+Similarity between frame_000995.PNG and frame_000996.PNG: 0.83
+Similarity between frame_000996.PNG and frame_000997.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000997.PNG to output folder.
+Similarity between frame_000997.PNG and frame_000998.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000998.PNG to output folder.
+Similarity between frame_000998.PNG and frame_000999.PNG: 0.83
+Similarity between frame_000999.PNG and frame_001006.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001006.PNG to output folder.
+Similarity between frame_001006.PNG and frame_001008.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001008.PNG to output folder.
+Similarity between frame_001008.PNG and frame_001012.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001012.PNG to output folder.
+Similarity between frame_001012.PNG and frame_001025.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001025.PNG to output folder.
+Similarity between frame_001025.PNG and frame_001027.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001027.PNG to output folder.
+Similarity between frame_001027.PNG and frame_001028.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001028.PNG to output folder.
+Similarity between frame_001028.PNG and frame_001043.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001043.PNG to output folder.
+Similarity between frame_001043.PNG and frame_001047.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001047.PNG to output folder.
+Similarity between frame_001047.PNG and frame_001082.PNG: 0.71
+  --- Images are dissimilar. Copying frame_001082.PNG to output folder.
+Similarity between frame_001082.PNG and frame_001083.PNG: 0.83
+Similarity between frame_001083.PNG and frame_001085.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001085.PNG to output folder.
+Similarity between frame_001085.PNG and frame_001086.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001086.PNG to output folder.
+Similarity between frame_001086.PNG and frame_001087.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001087.PNG to output folder.
+Similarity between frame_001087.PNG and frame_001088.PNG: 0.84
+Similarity between frame_001088.PNG and frame_001089.PNG: 0.85
+Similarity between frame_001089.PNG and frame_001111.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001111.PNG to output folder.
+Similarity between frame_001111.PNG and frame_001112.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001112.PNG to output folder.
+Similarity between frame_001112.PNG and frame_001113.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001113.PNG to output folder.
+Similarity between frame_001113.PNG and frame_001114.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001114.PNG to output folder.
+Similarity between frame_001114.PNG and frame_001118.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001118.PNG to output folder.
+Similarity between frame_001118.PNG and frame_001119.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001119.PNG to output folder.
+Similarity between frame_001119.PNG and frame_001120.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001120.PNG to output folder.
+Similarity between frame_001120.PNG and frame_001123.PNG: 0.73
+  --- Images are dissimilar. Copying frame_001123.PNG to output folder.
+Similarity between frame_001123.PNG and frame_001124.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001124.PNG to output folder.
+Similarity between frame_001124.PNG and frame_001141.PNG: 0.73
+  --- Images are dissimilar. Copying frame_001141.PNG to output folder.
+Similarity between frame_001141.PNG and frame_001142.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001142.PNG to output folder.
+Similarity between frame_001142.PNG and frame_001150.PNG: 0.70
+  --- Images are dissimilar. Copying frame_001150.PNG to output folder.
+Similarity between frame_001150.PNG and frame_001152.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001152.PNG to output folder.
+Similarity between frame_001152.PNG and frame_001154.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001154.PNG to output folder.
+Similarity between frame_001154.PNG and frame_001155.PNG: 0.83
+Similarity between frame_001155.PNG and frame_001156.PNG: 0.83
+Similarity between frame_001156.PNG and frame_001163.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001163.PNG to output folder.
+Similarity between frame_001163.PNG and frame_001164.PNG: 0.84
+Similarity between frame_001164.PNG and frame_001173.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001173.PNG to output folder.
+Similarity between frame_001173.PNG and frame_001174.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001174.PNG to output folder.
+Similarity between frame_001174.PNG and frame_001175.PNG: 0.83
+  --- Images are dissimilar. Copying frame_001175.PNG to output folder.
+Similarity between frame_001175.PNG and frame_001177.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001177.PNG to output folder.
+Similarity between frame_001177.PNG and frame_001178.PNG: 0.84
+Similarity between frame_001178.PNG and frame_001179.PNG: 0.84
+Similarity between frame_001179.PNG and frame_001180.PNG: 0.83
+  --- Images are dissimilar. Copying frame_001180.PNG to output folder.
+Similarity between frame_001180.PNG and frame_001181.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001181.PNG to output folder.
+Similarity between frame_001181.PNG and frame_001182.PNG: 0.86
+Similarity between frame_001182.PNG and frame_001183.PNG: 0.85
+Similarity between frame_001183.PNG and frame_001184.PNG: 0.84
+Similarity between frame_001184.PNG and frame_001185.PNG: 0.85
+Similarity between frame_001185.PNG and frame_001192.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001192.PNG to output folder.
+Similarity between frame_001192.PNG and frame_001193.PNG: 0.87
+Similarity between frame_001193.PNG and frame_001194.PNG: 0.86
+Similarity between frame_001194.PNG and frame_001195.PNG: 0.86
+Similarity between frame_001195.PNG and frame_001196.PNG: 0.84
+Similarity between frame_001196.PNG and frame_001203.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001203.PNG to output folder.
+Similarity between frame_001203.PNG and frame_001204.PNG: 0.87
+Similarity between frame_001204.PNG and frame_001209.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001209.PNG to output folder.
+Similarity between frame_001209.PNG and frame_001210.PNG: 0.87
+Similarity between frame_001210.PNG and frame_001212.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001212.PNG to output folder.
+Similarity between frame_001212.PNG and frame_001217.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001217.PNG to output folder.
+Similarity between frame_001217.PNG and frame_001218.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001218.PNG to output folder.
+Similarity between frame_001218.PNG and frame_001219.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001219.PNG to output folder.
+Similarity between frame_001219.PNG and frame_001220.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001220.PNG to output folder.
+Similarity between frame_001220.PNG and frame_001221.PNG: 0.83
+  --- Images are dissimilar. Copying frame_001221.PNG to output folder.
+Similarity between frame_001221.PNG and frame_001222.PNG: 0.85
+Similarity between frame_001222.PNG and frame_001227.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001227.PNG to output folder.
+Similarity between frame_001227.PNG and frame_001228.PNG: 0.83
+  --- Images are dissimilar. Copying frame_001228.PNG to output folder.
+Similarity between frame_001228.PNG and frame_001234.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001234.PNG to output folder.
+Similarity between frame_001234.PNG and frame_001235.PNG: 0.84
+Similarity between frame_001235.PNG and frame_001236.PNG: 0.86
+Similarity between frame_001236.PNG and frame_001237.PNG: 0.85
+Similarity between frame_001237.PNG and frame_001243.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001243.PNG to output folder.
+Similarity between frame_001243.PNG and frame_001244.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001244.PNG to output folder.
+Similarity between frame_001244.PNG and frame_001245.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001245.PNG to output folder.
+Similarity between frame_001245.PNG and frame_001246.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001246.PNG to output folder.
+Similarity between frame_001246.PNG and frame_001247.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001247.PNG to output folder.
+Similarity between frame_001247.PNG and frame_001248.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001248.PNG to output folder.
+Similarity between frame_001248.PNG and frame_001249.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001249.PNG to output folder.
+Similarity between frame_001249.PNG and frame_001250.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001250.PNG to output folder.
+Similarity between frame_001250.PNG and frame_001254.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001254.PNG to output folder.
+Similarity between frame_001254.PNG and frame_001255.PNG: 0.85
+Similarity between frame_001255.PNG and frame_001256.PNG: 0.86
+Similarity between frame_001256.PNG and frame_001260.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001260.PNG to output folder.
+Similarity between frame_001260.PNG and frame_001263.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001263.PNG to output folder.
+Similarity between frame_001263.PNG and frame_001264.PNG: 0.83
+  --- Images are dissimilar. Copying frame_001264.PNG to output folder.
+Similarity between frame_001264.PNG and frame_001265.PNG: 0.83
+  --- Images are dissimilar. Copying frame_001265.PNG to output folder.
+Similarity between frame_001265.PNG and frame_001269.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001269.PNG to output folder.
+Similarity between frame_001269.PNG and frame_001274.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001274.PNG to output folder.
+Similarity between frame_001274.PNG and frame_001275.PNG: 0.84
+Similarity between frame_001275.PNG and frame_001276.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001276.PNG to output folder.
+Similarity between frame_001276.PNG and frame_001285.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001285.PNG to output folder.
+Similarity between frame_001285.PNG and frame_001286.PNG: 0.87
+Similarity between frame_001286.PNG and frame_001287.PNG: 0.86
+Similarity between frame_001287.PNG and frame_001288.PNG: 0.85
+Similarity between frame_001288.PNG and frame_001289.PNG: 0.85
+Similarity between frame_001289.PNG and frame_001290.PNG: 0.84
+Similarity between frame_001290.PNG and frame_001292.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001292.PNG to output folder.
+Similarity between frame_001292.PNG and frame_001293.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001293.PNG to output folder.
+Similarity between frame_001293.PNG and frame_001294.PNG: 0.83
+Similarity between frame_001294.PNG and frame_001297.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001297.PNG to output folder.
+Similarity between frame_001297.PNG and frame_001298.PNG: 0.84
+Similarity between frame_001298.PNG and frame_001302.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001302.PNG to output folder.
+Similarity between frame_001302.PNG and frame_001303.PNG: 0.86
+Similarity between frame_001303.PNG and frame_001304.PNG: 0.86
+Similarity between frame_001304.PNG and frame_001305.PNG: 0.86
+Similarity between frame_001305.PNG and frame_001307.PNG: 0.85
+Similarity between frame_001307.PNG and frame_001308.PNG: 0.87
+Similarity between frame_001308.PNG and frame_001309.PNG: 0.85
+Similarity between frame_001309.PNG and frame_001314.PNG: 0.83
+Similarity between frame_001314.PNG and frame_001315.PNG: 0.84
+Similarity between frame_001315.PNG and frame_001320.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001320.PNG to output folder.
+Similarity between frame_001320.PNG and frame_001324.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001324.PNG to output folder.
+Similarity between frame_001324.PNG and frame_001325.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001325.PNG to output folder.
+Similarity between frame_001325.PNG and frame_001326.PNG: 0.86
+Similarity between frame_001326.PNG and frame_001354.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001354.PNG to output folder.
+Similarity between frame_001354.PNG and frame_001367.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001367.PNG to output folder.
+Similarity between frame_001367.PNG and frame_001411.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001411.PNG to output folder.
+Similarity between frame_001411.PNG and frame_001413.PNG: 0.83
+  --- Images are dissimilar. Copying frame_001413.PNG to output folder.
+Similarity between frame_001413.PNG and frame_001414.PNG: 0.87
+Similarity between frame_001414.PNG and frame_001428.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001428.PNG to output folder.
+Similarity between frame_001428.PNG and frame_001433.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001433.PNG to output folder.
+Similarity between frame_001433.PNG and frame_001465.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001465.PNG to output folder.
+Similarity between frame_001465.PNG and frame_001466.PNG: 0.83
+  --- Images are dissimilar. Copying frame_001466.PNG to output folder.
+Similarity between frame_001466.PNG and frame_001467.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001467.PNG to output folder.
+Similarity between frame_001467.PNG and frame_001468.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001468.PNG to output folder.
+Similarity between frame_001468.PNG and frame_001469.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001469.PNG to output folder.
+Similarity between frame_001469.PNG and frame_001470.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001470.PNG to output folder.
+Similarity between frame_001470.PNG and frame_001471.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001471.PNG to output folder.
+Similarity between frame_001471.PNG and frame_001476.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001476.PNG to output folder.
+Similarity between frame_001476.PNG and frame_001477.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001477.PNG to output folder.
+Similarity between frame_001477.PNG and frame_001478.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001478.PNG to output folder.
+Similarity between frame_001478.PNG and frame_001479.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001479.PNG to output folder.
+Similarity between frame_001479.PNG and frame_001480.PNG: 0.83
+  --- Images are dissimilar. Copying frame_001480.PNG to output folder.
+Similarity between frame_001480.PNG and frame_001481.PNG: 0.84
+Similarity between frame_001481.PNG and frame_001482.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001482.PNG to output folder.
+Similarity between frame_001482.PNG and frame_001499.PNG: 0.64
+  --- Images are dissimilar. Copying frame_001499.PNG to output folder.
+Similarity between frame_001499.PNG and frame_001500.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001500.PNG to output folder.
+Similarity between frame_001500.PNG and frame_001501.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001501.PNG to output folder.
+Similarity between frame_001501.PNG and frame_001502.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001502.PNG to output folder.
+Similarity between frame_001502.PNG and frame_001503.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001503.PNG to output folder.
+Images before comparison: 285, after comparison: 204
+Finished comparing and filtering out dissimilar images. Filtered: 203
+285 images in D:\FlagDetectionDatasets\ExportedDatasetsReduced\Job_27\obj_train_data.
+Similarity between frame_000500.PNG and frame_000501.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000501.PNG to output folder.
+Similarity between frame_000501.PNG and frame_000503.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000503.PNG to output folder.
+Similarity between frame_000503.PNG and frame_000504.PNG: 0.84
+Similarity between frame_000504.PNG and frame_000510.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000510.PNG to output folder.
+Similarity between frame_000510.PNG and frame_000511.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000511.PNG to output folder.
+Similarity between frame_000511.PNG and frame_000512.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000512.PNG to output folder.
+Similarity between frame_000512.PNG and frame_000515.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000515.PNG to output folder.
+Similarity between frame_000515.PNG and frame_000520.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000520.PNG to output folder.
+Similarity between frame_000520.PNG and frame_000521.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000521.PNG to output folder.
+Similarity between frame_000521.PNG and frame_000522.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000522.PNG to output folder.
+Similarity between frame_000522.PNG and frame_000527.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000527.PNG to output folder.
+Similarity between frame_000527.PNG and frame_000529.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000529.PNG to output folder.
+Similarity between frame_000529.PNG and frame_000530.PNG: 0.83
+Similarity between frame_000530.PNG and frame_000532.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000532.PNG to output folder.
+Similarity between frame_000532.PNG and frame_000538.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000538.PNG to output folder.
+Similarity between frame_000538.PNG and frame_000539.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000539.PNG to output folder.
+Similarity between frame_000539.PNG and frame_000540.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000540.PNG to output folder.
+Similarity between frame_000540.PNG and frame_000552.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000552.PNG to output folder.
+Similarity between frame_000552.PNG and frame_000554.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000554.PNG to output folder.
+Similarity between frame_000554.PNG and frame_000555.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000555.PNG to output folder.
+Similarity between frame_000555.PNG and frame_000556.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000556.PNG to output folder.
+Similarity between frame_000556.PNG and frame_000557.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000557.PNG to output folder.
+Similarity between frame_000557.PNG and frame_000558.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000558.PNG to output folder.
+Similarity between frame_000558.PNG and frame_000559.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000559.PNG to output folder.
+Similarity between frame_000559.PNG and frame_000560.PNG: 0.84
+Similarity between frame_000560.PNG and frame_000564.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000564.PNG to output folder.
+Similarity between frame_000564.PNG and frame_000569.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000569.PNG to output folder.
+Similarity between frame_000569.PNG and frame_000578.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000578.PNG to output folder.
+Similarity between frame_000578.PNG and frame_000582.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000582.PNG to output folder.
+Similarity between frame_000582.PNG and frame_000585.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000585.PNG to output folder.
+Similarity between frame_000585.PNG and frame_000586.PNG: 0.82
+Similarity between frame_000586.PNG and frame_000587.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000587.PNG to output folder.
+Similarity between frame_000587.PNG and frame_000588.PNG: 0.85
+Similarity between frame_000588.PNG and frame_000590.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000590.PNG to output folder.
+Similarity between frame_000590.PNG and frame_000595.PNG: 0.82
+Similarity between frame_000595.PNG and frame_000596.PNG: 0.82
+Similarity between frame_000596.PNG and frame_000597.PNG: 0.86
+Similarity between frame_000597.PNG and frame_000598.PNG: 0.85
+Similarity between frame_000598.PNG and frame_000603.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000603.PNG to output folder.
+Similarity between frame_000603.PNG and frame_000604.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000604.PNG to output folder.
+Similarity between frame_000604.PNG and frame_000619.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000619.PNG to output folder.
+Similarity between frame_000619.PNG and frame_000622.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000622.PNG to output folder.
+Similarity between frame_000622.PNG and frame_000623.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000623.PNG to output folder.
+Similarity between frame_000623.PNG and frame_000624.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000624.PNG to output folder.
+Similarity between frame_000624.PNG and frame_000634.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000634.PNG to output folder.
+Similarity between frame_000634.PNG and frame_000661.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000661.PNG to output folder.
+Similarity between frame_000661.PNG and frame_000662.PNG: 0.83
+Similarity between frame_000662.PNG and frame_000663.PNG: 0.84
+Similarity between frame_000663.PNG and frame_000664.PNG: 0.85
+Similarity between frame_000664.PNG and frame_000673.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000673.PNG to output folder.
+Similarity between frame_000673.PNG and frame_000674.PNG: 0.84
+Similarity between frame_000674.PNG and frame_000675.PNG: 0.83
+Similarity between frame_000675.PNG and frame_000679.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000679.PNG to output folder.
+Similarity between frame_000679.PNG and frame_000682.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000682.PNG to output folder.
+Similarity between frame_000682.PNG and frame_000683.PNG: 0.86
+Similarity between frame_000683.PNG and frame_000685.PNG: 0.83
+Similarity between frame_000685.PNG and frame_000686.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000686.PNG to output folder.
+Similarity between frame_000686.PNG and frame_000715.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000715.PNG to output folder.
+Similarity between frame_000715.PNG and frame_000716.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000716.PNG to output folder.
+Similarity between frame_000716.PNG and frame_000742.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000742.PNG to output folder.
+Similarity between frame_000742.PNG and frame_000743.PNG: 0.87
+Similarity between frame_000743.PNG and frame_000750.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000750.PNG to output folder.
+Similarity between frame_000750.PNG and frame_000751.PNG: 0.82
+Similarity between frame_000751.PNG and frame_000752.PNG: 0.83
+Similarity between frame_000752.PNG and frame_000759.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000759.PNG to output folder.
+Similarity between frame_000759.PNG and frame_000760.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000760.PNG to output folder.
+Similarity between frame_000760.PNG and frame_000761.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000761.PNG to output folder.
+Similarity between frame_000761.PNG and frame_000762.PNG: 0.83
+Similarity between frame_000762.PNG and frame_000766.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000766.PNG to output folder.
+Similarity between frame_000766.PNG and frame_000767.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000767.PNG to output folder.
+Similarity between frame_000767.PNG and frame_000768.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000768.PNG to output folder.
+Similarity between frame_000768.PNG and frame_000770.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000770.PNG to output folder.
+Similarity between frame_000770.PNG and frame_000771.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000771.PNG to output folder.
+Similarity between frame_000771.PNG and frame_000774.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000774.PNG to output folder.
+Similarity between frame_000774.PNG and frame_000786.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000786.PNG to output folder.
+Similarity between frame_000786.PNG and frame_000787.PNG: 0.85
+Similarity between frame_000787.PNG and frame_000788.PNG: 0.83
+Similarity between frame_000788.PNG and frame_000789.PNG: 0.82
+Similarity between frame_000789.PNG and frame_000795.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000795.PNG to output folder.
+Similarity between frame_000795.PNG and frame_000796.PNG: 0.74
+  --- Images are dissimilar. Copying frame_000796.PNG to output folder.
+Similarity between frame_000796.PNG and frame_000797.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000797.PNG to output folder.
+Similarity between frame_000797.PNG and frame_000804.PNG: 0.72
+  --- Images are dissimilar. Copying frame_000804.PNG to output folder.
+Similarity between frame_000804.PNG and frame_000805.PNG: 0.83
+Similarity between frame_000805.PNG and frame_000809.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000809.PNG to output folder.
+Similarity between frame_000809.PNG and frame_000810.PNG: 0.82
+Similarity between frame_000810.PNG and frame_000812.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000812.PNG to output folder.
+Similarity between frame_000812.PNG and frame_000813.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000813.PNG to output folder.
+Similarity between frame_000813.PNG and frame_000814.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000814.PNG to output folder.
+Similarity between frame_000814.PNG and frame_000815.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000815.PNG to output folder.
+Similarity between frame_000815.PNG and frame_000816.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000816.PNG to output folder.
+Similarity between frame_000816.PNG and frame_000817.PNG: 0.84
+Similarity between frame_000817.PNG and frame_000818.PNG: 0.82
+Similarity between frame_000818.PNG and frame_000822.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000822.PNG to output folder.
+Similarity between frame_000822.PNG and frame_000825.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000825.PNG to output folder.
+Similarity between frame_000825.PNG and frame_000826.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000826.PNG to output folder.
+Similarity between frame_000826.PNG and frame_000838.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000838.PNG to output folder.
+Similarity between frame_000838.PNG and frame_000839.PNG: 0.83
+Similarity between frame_000839.PNG and frame_000843.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000843.PNG to output folder.
+Similarity between frame_000843.PNG and frame_000844.PNG: 0.85
+Similarity between frame_000844.PNG and frame_000845.PNG: 0.85
+Similarity between frame_000845.PNG and frame_000846.PNG: 0.84
+Similarity between frame_000846.PNG and frame_000847.PNG: 0.83
+Similarity between frame_000847.PNG and frame_000848.PNG: 0.82
+Similarity between frame_000848.PNG and frame_000850.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000850.PNG to output folder.
+Similarity between frame_000850.PNG and frame_000851.PNG: 0.84
+Similarity between frame_000851.PNG and frame_000852.PNG: 0.84
+Similarity between frame_000852.PNG and frame_000853.PNG: 0.83
+Similarity between frame_000853.PNG and frame_000854.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000854.PNG to output folder.
+Similarity between frame_000854.PNG and frame_000855.PNG: 0.83
+Similarity between frame_000855.PNG and frame_000857.PNG: 0.82
+Similarity between frame_000857.PNG and frame_000858.PNG: 0.84
+Similarity between frame_000858.PNG and frame_000859.PNG: 0.84
+Similarity between frame_000859.PNG and frame_000860.PNG: 0.83
+Similarity between frame_000860.PNG and frame_000885.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000885.PNG to output folder.
+Similarity between frame_000885.PNG and frame_000890.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000890.PNG to output folder.
+Similarity between frame_000890.PNG and frame_000891.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000891.PNG to output folder.
+Similarity between frame_000891.PNG and frame_000892.PNG: 0.83
+Similarity between frame_000892.PNG and frame_000906.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000906.PNG to output folder.
+Similarity between frame_000906.PNG and frame_000908.PNG: 0.84
+Similarity between frame_000908.PNG and frame_000909.PNG: 0.85
+Similarity between frame_000909.PNG and frame_000920.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000920.PNG to output folder.
+Similarity between frame_000920.PNG and frame_000921.PNG: 0.84
+Similarity between frame_000921.PNG and frame_000922.PNG: 0.85
+Similarity between frame_000922.PNG and frame_000923.PNG: 0.85
+Similarity between frame_000923.PNG and frame_000929.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000929.PNG to output folder.
+Similarity between frame_000929.PNG and frame_000933.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000933.PNG to output folder.
+Similarity between frame_000933.PNG and frame_000935.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000935.PNG to output folder.
+Similarity between frame_000935.PNG and frame_000938.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000938.PNG to output folder.
+Similarity between frame_000938.PNG and frame_000939.PNG: 0.85
+Similarity between frame_000939.PNG and frame_000944.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000944.PNG to output folder.
+Similarity between frame_000944.PNG and frame_000975.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000975.PNG to output folder.
+Similarity between frame_000975.PNG and frame_000980.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000980.PNG to output folder.
+Similarity between frame_000980.PNG and frame_000982.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000982.PNG to output folder.
+Similarity between frame_000982.PNG and frame_000983.PNG: 0.85
+Similarity between frame_000983.PNG and frame_000984.PNG: 0.84
+Similarity between frame_000984.PNG and frame_000986.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000986.PNG to output folder.
+Similarity between frame_000986.PNG and frame_000987.PNG: 0.82
+Similarity between frame_000987.PNG and frame_000989.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000989.PNG to output folder.
+Similarity between frame_000989.PNG and frame_000990.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000990.PNG to output folder.
+Similarity between frame_000990.PNG and frame_000991.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000991.PNG to output folder.
+Similarity between frame_000991.PNG and frame_000992.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000992.PNG to output folder.
+Similarity between frame_000992.PNG and frame_000993.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000993.PNG to output folder.
+Similarity between frame_000993.PNG and frame_000994.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000994.PNG to output folder.
+Similarity between frame_000994.PNG and frame_000995.PNG: 0.81
+  --- Images are dissimilar. Copying frame_000995.PNG to output folder.
+Similarity between frame_000995.PNG and frame_000996.PNG: 0.83
+Similarity between frame_000996.PNG and frame_000997.PNG: 0.82
+  --- Images are dissimilar. Copying frame_000997.PNG to output folder.
+Similarity between frame_000997.PNG and frame_000998.PNG: 0.82
+Similarity between frame_000998.PNG and frame_000999.PNG: 0.83
+Similarity between frame_000999.PNG and frame_001006.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001006.PNG to output folder.
+Similarity between frame_001006.PNG and frame_001008.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001008.PNG to output folder.
+Similarity between frame_001008.PNG and frame_001012.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001012.PNG to output folder.
+Similarity between frame_001012.PNG and frame_001025.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001025.PNG to output folder.
+Similarity between frame_001025.PNG and frame_001027.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001027.PNG to output folder.
+Similarity between frame_001027.PNG and frame_001028.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001028.PNG to output folder.
+Similarity between frame_001028.PNG and frame_001043.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001043.PNG to output folder.
+Similarity between frame_001043.PNG and frame_001047.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001047.PNG to output folder.
+Similarity between frame_001047.PNG and frame_001082.PNG: 0.71
+  --- Images are dissimilar. Copying frame_001082.PNG to output folder.
+Similarity between frame_001082.PNG and frame_001083.PNG: 0.83
+Similarity between frame_001083.PNG and frame_001085.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001085.PNG to output folder.
+Similarity between frame_001085.PNG and frame_001086.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001086.PNG to output folder.
+Similarity between frame_001086.PNG and frame_001087.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001087.PNG to output folder.
+Similarity between frame_001087.PNG and frame_001088.PNG: 0.84
+Similarity between frame_001088.PNG and frame_001089.PNG: 0.85
+Similarity between frame_001089.PNG and frame_001111.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001111.PNG to output folder.
+Similarity between frame_001111.PNG and frame_001112.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001112.PNG to output folder.
+Similarity between frame_001112.PNG and frame_001113.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001113.PNG to output folder.
+Similarity between frame_001113.PNG and frame_001114.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001114.PNG to output folder.
+Similarity between frame_001114.PNG and frame_001118.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001118.PNG to output folder.
+Similarity between frame_001118.PNG and frame_001119.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001119.PNG to output folder.
+Similarity between frame_001119.PNG and frame_001120.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001120.PNG to output folder.
+Similarity between frame_001120.PNG and frame_001123.PNG: 0.73
+  --- Images are dissimilar. Copying frame_001123.PNG to output folder.
+Similarity between frame_001123.PNG and frame_001124.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001124.PNG to output folder.
+Similarity between frame_001124.PNG and frame_001141.PNG: 0.73
+  --- Images are dissimilar. Copying frame_001141.PNG to output folder.
+Similarity between frame_001141.PNG and frame_001142.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001142.PNG to output folder.
+Similarity between frame_001142.PNG and frame_001150.PNG: 0.70
+  --- Images are dissimilar. Copying frame_001150.PNG to output folder.
+Similarity between frame_001150.PNG and frame_001152.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001152.PNG to output folder.
+Similarity between frame_001152.PNG and frame_001154.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001154.PNG to output folder.
+Similarity between frame_001154.PNG and frame_001155.PNG: 0.83
+Similarity between frame_001155.PNG and frame_001156.PNG: 0.83
+Similarity between frame_001156.PNG and frame_001163.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001163.PNG to output folder.
+Similarity between frame_001163.PNG and frame_001164.PNG: 0.84
+Similarity between frame_001164.PNG and frame_001173.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001173.PNG to output folder.
+Similarity between frame_001173.PNG and frame_001174.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001174.PNG to output folder.
+Similarity between frame_001174.PNG and frame_001175.PNG: 0.83
+Similarity between frame_001175.PNG and frame_001177.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001177.PNG to output folder.
+Similarity between frame_001177.PNG and frame_001178.PNG: 0.84
+Similarity between frame_001178.PNG and frame_001179.PNG: 0.84
+Similarity between frame_001179.PNG and frame_001180.PNG: 0.83
+Similarity between frame_001180.PNG and frame_001181.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001181.PNG to output folder.
+Similarity between frame_001181.PNG and frame_001182.PNG: 0.86
+Similarity between frame_001182.PNG and frame_001183.PNG: 0.85
+Similarity between frame_001183.PNG and frame_001184.PNG: 0.84
+Similarity between frame_001184.PNG and frame_001185.PNG: 0.85
+Similarity between frame_001185.PNG and frame_001192.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001192.PNG to output folder.
+Similarity between frame_001192.PNG and frame_001193.PNG: 0.87
+Similarity between frame_001193.PNG and frame_001194.PNG: 0.86
+Similarity between frame_001194.PNG and frame_001195.PNG: 0.86
+Similarity between frame_001195.PNG and frame_001196.PNG: 0.84
+Similarity between frame_001196.PNG and frame_001203.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001203.PNG to output folder.
+Similarity between frame_001203.PNG and frame_001204.PNG: 0.87
+Similarity between frame_001204.PNG and frame_001209.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001209.PNG to output folder.
+Similarity between frame_001209.PNG and frame_001210.PNG: 0.87
+Similarity between frame_001210.PNG and frame_001212.PNG: 0.82
+Similarity between frame_001212.PNG and frame_001217.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001217.PNG to output folder.
+Similarity between frame_001217.PNG and frame_001218.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001218.PNG to output folder.
+Similarity between frame_001218.PNG and frame_001219.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001219.PNG to output folder.
+Similarity between frame_001219.PNG and frame_001220.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001220.PNG to output folder.
+Similarity between frame_001220.PNG and frame_001221.PNG: 0.83
+Similarity between frame_001221.PNG and frame_001222.PNG: 0.85
+Similarity between frame_001222.PNG and frame_001227.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001227.PNG to output folder.
+Similarity between frame_001227.PNG and frame_001228.PNG: 0.83
+Similarity between frame_001228.PNG and frame_001234.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001234.PNG to output folder.
+Similarity between frame_001234.PNG and frame_001235.PNG: 0.84
+Similarity between frame_001235.PNG and frame_001236.PNG: 0.86
+Similarity between frame_001236.PNG and frame_001237.PNG: 0.85
+Similarity between frame_001237.PNG and frame_001243.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001243.PNG to output folder.
+Similarity between frame_001243.PNG and frame_001244.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001244.PNG to output folder.
+Similarity between frame_001244.PNG and frame_001245.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001245.PNG to output folder.
+Similarity between frame_001245.PNG and frame_001246.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001246.PNG to output folder.
+Similarity between frame_001246.PNG and frame_001247.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001247.PNG to output folder.
+Similarity between frame_001247.PNG and frame_001248.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001248.PNG to output folder.
+Similarity between frame_001248.PNG and frame_001249.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001249.PNG to output folder.
+Similarity between frame_001249.PNG and frame_001250.PNG: 0.82
+Similarity between frame_001250.PNG and frame_001254.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001254.PNG to output folder.
+Similarity between frame_001254.PNG and frame_001255.PNG: 0.85
+Similarity between frame_001255.PNG and frame_001256.PNG: 0.86
+Similarity between frame_001256.PNG and frame_001260.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001260.PNG to output folder.
+Similarity between frame_001260.PNG and frame_001263.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001263.PNG to output folder.
+Similarity between frame_001263.PNG and frame_001264.PNG: 0.83
+Similarity between frame_001264.PNG and frame_001265.PNG: 0.83
+Similarity between frame_001265.PNG and frame_001269.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001269.PNG to output folder.
+Similarity between frame_001269.PNG and frame_001274.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001274.PNG to output folder.
+Similarity between frame_001274.PNG and frame_001275.PNG: 0.84
+Similarity between frame_001275.PNG and frame_001276.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001276.PNG to output folder.
+Similarity between frame_001276.PNG and frame_001285.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001285.PNG to output folder.
+Similarity between frame_001285.PNG and frame_001286.PNG: 0.87
+Similarity between frame_001286.PNG and frame_001287.PNG: 0.86
+Similarity between frame_001287.PNG and frame_001288.PNG: 0.85
+Similarity between frame_001288.PNG and frame_001289.PNG: 0.85
+Similarity between frame_001289.PNG and frame_001290.PNG: 0.84
+Similarity between frame_001290.PNG and frame_001292.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001292.PNG to output folder.
+Similarity between frame_001292.PNG and frame_001293.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001293.PNG to output folder.
+Similarity between frame_001293.PNG and frame_001294.PNG: 0.83
+Similarity between frame_001294.PNG and frame_001297.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001297.PNG to output folder.
+Similarity between frame_001297.PNG and frame_001298.PNG: 0.84
+Similarity between frame_001298.PNG and frame_001302.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001302.PNG to output folder.
+Similarity between frame_001302.PNG and frame_001303.PNG: 0.86
+Similarity between frame_001303.PNG and frame_001304.PNG: 0.86
+Similarity between frame_001304.PNG and frame_001305.PNG: 0.86
+Similarity between frame_001305.PNG and frame_001307.PNG: 0.85
+Similarity between frame_001307.PNG and frame_001308.PNG: 0.87
+Similarity between frame_001308.PNG and frame_001309.PNG: 0.85
+Similarity between frame_001309.PNG and frame_001314.PNG: 0.83
+Similarity between frame_001314.PNG and frame_001315.PNG: 0.84
+Similarity between frame_001315.PNG and frame_001320.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001320.PNG to output folder.
+Similarity between frame_001320.PNG and frame_001324.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001324.PNG to output folder.
+Similarity between frame_001324.PNG and frame_001325.PNG: 0.82
+Similarity between frame_001325.PNG and frame_001326.PNG: 0.86
+Similarity between frame_001326.PNG and frame_001354.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001354.PNG to output folder.
+Similarity between frame_001354.PNG and frame_001367.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001367.PNG to output folder.
+Similarity between frame_001367.PNG and frame_001411.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001411.PNG to output folder.
+Similarity between frame_001411.PNG and frame_001413.PNG: 0.83
+Similarity between frame_001413.PNG and frame_001414.PNG: 0.87
+Similarity between frame_001414.PNG and frame_001428.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001428.PNG to output folder.
+Similarity between frame_001428.PNG and frame_001433.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001433.PNG to output folder.
+Similarity between frame_001433.PNG and frame_001465.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001465.PNG to output folder.
+Similarity between frame_001465.PNG and frame_001466.PNG: 0.83
+Similarity between frame_001466.PNG and frame_001467.PNG: 0.82
+  --- Images are dissimilar. Copying frame_001467.PNG to output folder.
+Similarity between frame_001467.PNG and frame_001468.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001468.PNG to output folder.
+Similarity between frame_001468.PNG and frame_001469.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001469.PNG to output folder.
+Similarity between frame_001469.PNG and frame_001470.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001470.PNG to output folder.
+Similarity between frame_001470.PNG and frame_001471.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001471.PNG to output folder.
+Similarity between frame_001471.PNG and frame_001476.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001476.PNG to output folder.
+Similarity between frame_001476.PNG and frame_001477.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001477.PNG to output folder.
+Similarity between frame_001477.PNG and frame_001478.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001478.PNG to output folder.
+Similarity between frame_001478.PNG and frame_001479.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001479.PNG to output folder.
+Similarity between frame_001479.PNG and frame_001480.PNG: 0.83
+Similarity between frame_001480.PNG and frame_001481.PNG: 0.84
+Similarity between frame_001481.PNG and frame_001482.PNG: 0.81
+  --- Images are dissimilar. Copying frame_001482.PNG to output folder.
+Similarity between frame_001482.PNG and frame_001499.PNG: 0.64
+  --- Images are dissimilar. Copying frame_001499.PNG to output folder.
+Similarity between frame_001499.PNG and frame_001500.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001500.PNG to output folder.
+Similarity between frame_001500.PNG and frame_001501.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001501.PNG to output folder.
+Similarity between frame_001501.PNG and frame_001502.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001502.PNG to output folder.
+Similarity between frame_001502.PNG and frame_001503.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001503.PNG to output folder.
+Images before comparison: 285, after comparison: 204
+Finished comparing and filtering out dissimilar images. Filtered: 175
+285 images in D:\FlagDetectionDatasets\ExportedDatasetsReduced\Job_27\obj_train_data.
+Similarity between frame_000500.PNG and frame_000501.PNG: 0.80
+Similarity between frame_000501.PNG and frame_000503.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000503.PNG to output folder.
+Similarity between frame_000503.PNG and frame_000504.PNG: 0.84
+Similarity between frame_000504.PNG and frame_000510.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000510.PNG to output folder.
+Similarity between frame_000510.PNG and frame_000511.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000511.PNG to output folder.
+Similarity between frame_000511.PNG and frame_000512.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000512.PNG to output folder.
+Similarity between frame_000512.PNG and frame_000515.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000515.PNG to output folder.
+Similarity between frame_000515.PNG and frame_000520.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000520.PNG to output folder.
+Similarity between frame_000520.PNG and frame_000521.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000521.PNG to output folder.
+Similarity between frame_000521.PNG and frame_000522.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000522.PNG to output folder.
+Similarity between frame_000522.PNG and frame_000527.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000527.PNG to output folder.
+Similarity between frame_000527.PNG and frame_000529.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000529.PNG to output folder.
+Similarity between frame_000529.PNG and frame_000530.PNG: 0.83
+Similarity between frame_000530.PNG and frame_000532.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000532.PNG to output folder.
+Similarity between frame_000532.PNG and frame_000538.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000538.PNG to output folder.
+Similarity between frame_000538.PNG and frame_000539.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000539.PNG to output folder.
+Similarity between frame_000539.PNG and frame_000540.PNG: 0.81
+Similarity between frame_000540.PNG and frame_000552.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000552.PNG to output folder.
+Similarity between frame_000552.PNG and frame_000554.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000554.PNG to output folder.
+Similarity between frame_000554.PNG and frame_000555.PNG: 0.81
+Similarity between frame_000555.PNG and frame_000556.PNG: 0.81
+Similarity between frame_000556.PNG and frame_000557.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000557.PNG to output folder.
+Similarity between frame_000557.PNG and frame_000558.PNG: 0.82
+Similarity between frame_000558.PNG and frame_000559.PNG: 0.82
+Similarity between frame_000559.PNG and frame_000560.PNG: 0.84
+Similarity between frame_000560.PNG and frame_000564.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000564.PNG to output folder.
+Similarity between frame_000564.PNG and frame_000569.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000569.PNG to output folder.
+Similarity between frame_000569.PNG and frame_000578.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000578.PNG to output folder.
+Similarity between frame_000578.PNG and frame_000582.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000582.PNG to output folder.
+Similarity between frame_000582.PNG and frame_000585.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000585.PNG to output folder.
+Similarity between frame_000585.PNG and frame_000586.PNG: 0.82
+Similarity between frame_000586.PNG and frame_000587.PNG: 0.82
+Similarity between frame_000587.PNG and frame_000588.PNG: 0.85
+Similarity between frame_000588.PNG and frame_000590.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000590.PNG to output folder.
+Similarity between frame_000590.PNG and frame_000595.PNG: 0.82
+Similarity between frame_000595.PNG and frame_000596.PNG: 0.82
+Similarity between frame_000596.PNG and frame_000597.PNG: 0.86
+Similarity between frame_000597.PNG and frame_000598.PNG: 0.85
+Similarity between frame_000598.PNG and frame_000603.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000603.PNG to output folder.
+Similarity between frame_000603.PNG and frame_000604.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000604.PNG to output folder.
+Similarity between frame_000604.PNG and frame_000619.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000619.PNG to output folder.
+Similarity between frame_000619.PNG and frame_000622.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000622.PNG to output folder.
+Similarity between frame_000622.PNG and frame_000623.PNG: 0.81
+Similarity between frame_000623.PNG and frame_000624.PNG: 0.82
+Similarity between frame_000624.PNG and frame_000634.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000634.PNG to output folder.
+Similarity between frame_000634.PNG and frame_000661.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000661.PNG to output folder.
+Similarity between frame_000661.PNG and frame_000662.PNG: 0.83
+Similarity between frame_000662.PNG and frame_000663.PNG: 0.84
+Similarity between frame_000663.PNG and frame_000664.PNG: 0.85
+Similarity between frame_000664.PNG and frame_000673.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000673.PNG to output folder.
+Similarity between frame_000673.PNG and frame_000674.PNG: 0.84
+Similarity between frame_000674.PNG and frame_000675.PNG: 0.83
+Similarity between frame_000675.PNG and frame_000679.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000679.PNG to output folder.
+Similarity between frame_000679.PNG and frame_000682.PNG: 0.81
+Similarity between frame_000682.PNG and frame_000683.PNG: 0.86
+Similarity between frame_000683.PNG and frame_000685.PNG: 0.83
+Similarity between frame_000685.PNG and frame_000686.PNG: 0.82
+Similarity between frame_000686.PNG and frame_000715.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000715.PNG to output folder.
+Similarity between frame_000715.PNG and frame_000716.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000716.PNG to output folder.
+Similarity between frame_000716.PNG and frame_000742.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000742.PNG to output folder.
+Similarity between frame_000742.PNG and frame_000743.PNG: 0.87
+Similarity between frame_000743.PNG and frame_000750.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000750.PNG to output folder.
+Similarity between frame_000750.PNG and frame_000751.PNG: 0.82
+Similarity between frame_000751.PNG and frame_000752.PNG: 0.83
+Similarity between frame_000752.PNG and frame_000759.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000759.PNG to output folder.
+Similarity between frame_000759.PNG and frame_000760.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000760.PNG to output folder.
+Similarity between frame_000760.PNG and frame_000761.PNG: 0.81
+Similarity between frame_000761.PNG and frame_000762.PNG: 0.83
+Similarity between frame_000762.PNG and frame_000766.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000766.PNG to output folder.
+Similarity between frame_000766.PNG and frame_000767.PNG: 0.81
+Similarity between frame_000767.PNG and frame_000768.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000768.PNG to output folder.
+Similarity between frame_000768.PNG and frame_000770.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000770.PNG to output folder.
+Similarity between frame_000770.PNG and frame_000771.PNG: 0.81
+Similarity between frame_000771.PNG and frame_000774.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000774.PNG to output folder.
+Similarity between frame_000774.PNG and frame_000786.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000786.PNG to output folder.
+Similarity between frame_000786.PNG and frame_000787.PNG: 0.85
+Similarity between frame_000787.PNG and frame_000788.PNG: 0.83
+Similarity between frame_000788.PNG and frame_000789.PNG: 0.82
+Similarity between frame_000789.PNG and frame_000795.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000795.PNG to output folder.
+Similarity between frame_000795.PNG and frame_000796.PNG: 0.74
+  --- Images are dissimilar. Copying frame_000796.PNG to output folder.
+Similarity between frame_000796.PNG and frame_000797.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000797.PNG to output folder.
+Similarity between frame_000797.PNG and frame_000804.PNG: 0.72
+  --- Images are dissimilar. Copying frame_000804.PNG to output folder.
+Similarity between frame_000804.PNG and frame_000805.PNG: 0.83
+Similarity between frame_000805.PNG and frame_000809.PNG: 0.80
+Similarity between frame_000809.PNG and frame_000810.PNG: 0.82
+Similarity between frame_000810.PNG and frame_000812.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000812.PNG to output folder.
+Similarity between frame_000812.PNG and frame_000813.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000813.PNG to output folder.
+Similarity between frame_000813.PNG and frame_000814.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000814.PNG to output folder.
+Similarity between frame_000814.PNG and frame_000815.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000815.PNG to output folder.
+Similarity between frame_000815.PNG and frame_000816.PNG: 0.82
+Similarity between frame_000816.PNG and frame_000817.PNG: 0.84
+Similarity between frame_000817.PNG and frame_000818.PNG: 0.82
+Similarity between frame_000818.PNG and frame_000822.PNG: 0.80
+Similarity between frame_000822.PNG and frame_000825.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000825.PNG to output folder.
+Similarity between frame_000825.PNG and frame_000826.PNG: 0.80
+Similarity between frame_000826.PNG and frame_000838.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000838.PNG to output folder.
+Similarity between frame_000838.PNG and frame_000839.PNG: 0.83
+Similarity between frame_000839.PNG and frame_000843.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000843.PNG to output folder.
+Similarity between frame_000843.PNG and frame_000844.PNG: 0.85
+Similarity between frame_000844.PNG and frame_000845.PNG: 0.85
+Similarity between frame_000845.PNG and frame_000846.PNG: 0.84
+Similarity between frame_000846.PNG and frame_000847.PNG: 0.83
+Similarity between frame_000847.PNG and frame_000848.PNG: 0.82
+Similarity between frame_000848.PNG and frame_000850.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000850.PNG to output folder.
+Similarity between frame_000850.PNG and frame_000851.PNG: 0.84
+Similarity between frame_000851.PNG and frame_000852.PNG: 0.84
+Similarity between frame_000852.PNG and frame_000853.PNG: 0.83
+Similarity between frame_000853.PNG and frame_000854.PNG: 0.82
+Similarity between frame_000854.PNG and frame_000855.PNG: 0.83
+Similarity between frame_000855.PNG and frame_000857.PNG: 0.82
+Similarity between frame_000857.PNG and frame_000858.PNG: 0.84
+Similarity between frame_000858.PNG and frame_000859.PNG: 0.84
+Similarity between frame_000859.PNG and frame_000860.PNG: 0.83
+Similarity between frame_000860.PNG and frame_000885.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000885.PNG to output folder.
+Similarity between frame_000885.PNG and frame_000890.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000890.PNG to output folder.
+Similarity between frame_000890.PNG and frame_000891.PNG: 0.81
+Similarity between frame_000891.PNG and frame_000892.PNG: 0.83
+Similarity between frame_000892.PNG and frame_000906.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000906.PNG to output folder.
+Similarity between frame_000906.PNG and frame_000908.PNG: 0.84
+Similarity between frame_000908.PNG and frame_000909.PNG: 0.85
+Similarity between frame_000909.PNG and frame_000920.PNG: 0.80
+Similarity between frame_000920.PNG and frame_000921.PNG: 0.84
+Similarity between frame_000921.PNG and frame_000922.PNG: 0.85
+Similarity between frame_000922.PNG and frame_000923.PNG: 0.85
+Similarity between frame_000923.PNG and frame_000929.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000929.PNG to output folder.
+Similarity between frame_000929.PNG and frame_000933.PNG: 0.81
+Similarity between frame_000933.PNG and frame_000935.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000935.PNG to output folder.
+Similarity between frame_000935.PNG and frame_000938.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000938.PNG to output folder.
+Similarity between frame_000938.PNG and frame_000939.PNG: 0.85
+Similarity between frame_000939.PNG and frame_000944.PNG: 0.81
+Similarity between frame_000944.PNG and frame_000975.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000975.PNG to output folder.
+Similarity between frame_000975.PNG and frame_000980.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000980.PNG to output folder.
+Similarity between frame_000980.PNG and frame_000982.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000982.PNG to output folder.
+Similarity between frame_000982.PNG and frame_000983.PNG: 0.85
+Similarity between frame_000983.PNG and frame_000984.PNG: 0.84
+Similarity between frame_000984.PNG and frame_000986.PNG: 0.80
+Similarity between frame_000986.PNG and frame_000987.PNG: 0.82
+Similarity between frame_000987.PNG and frame_000989.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000989.PNG to output folder.
+Similarity between frame_000989.PNG and frame_000990.PNG: 0.81
+Similarity between frame_000990.PNG and frame_000991.PNG: 0.80
+Similarity between frame_000991.PNG and frame_000992.PNG: 0.81
+Similarity between frame_000992.PNG and frame_000993.PNG: 0.81
+Similarity between frame_000993.PNG and frame_000994.PNG: 0.81
+Similarity between frame_000994.PNG and frame_000995.PNG: 0.81
+Similarity between frame_000995.PNG and frame_000996.PNG: 0.83
+Similarity between frame_000996.PNG and frame_000997.PNG: 0.82
+Similarity between frame_000997.PNG and frame_000998.PNG: 0.82
+Similarity between frame_000998.PNG and frame_000999.PNG: 0.83
+Similarity between frame_000999.PNG and frame_001006.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001006.PNG to output folder.
+Similarity between frame_001006.PNG and frame_001008.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001008.PNG to output folder.
+Similarity between frame_001008.PNG and frame_001012.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001012.PNG to output folder.
+Similarity between frame_001012.PNG and frame_001025.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001025.PNG to output folder.
+Similarity between frame_001025.PNG and frame_001027.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001027.PNG to output folder.
+Similarity between frame_001027.PNG and frame_001028.PNG: 0.81
+Similarity between frame_001028.PNG and frame_001043.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001043.PNG to output folder.
+Similarity between frame_001043.PNG and frame_001047.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001047.PNG to output folder.
+Similarity between frame_001047.PNG and frame_001082.PNG: 0.71
+  --- Images are dissimilar. Copying frame_001082.PNG to output folder.
+Similarity between frame_001082.PNG and frame_001083.PNG: 0.83
+Similarity between frame_001083.PNG and frame_001085.PNG: 0.82
+Similarity between frame_001085.PNG and frame_001086.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001086.PNG to output folder.
+Similarity between frame_001086.PNG and frame_001087.PNG: 0.81
+Similarity between frame_001087.PNG and frame_001088.PNG: 0.84
+Similarity between frame_001088.PNG and frame_001089.PNG: 0.85
+Similarity between frame_001089.PNG and frame_001111.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001111.PNG to output folder.
+Similarity between frame_001111.PNG and frame_001112.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001112.PNG to output folder.
+Similarity between frame_001112.PNG and frame_001113.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001113.PNG to output folder.
+Similarity between frame_001113.PNG and frame_001114.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001114.PNG to output folder.
+Similarity between frame_001114.PNG and frame_001118.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001118.PNG to output folder.
+Similarity between frame_001118.PNG and frame_001119.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001119.PNG to output folder.
+Similarity between frame_001119.PNG and frame_001120.PNG: 0.81
+Similarity between frame_001120.PNG and frame_001123.PNG: 0.73
+  --- Images are dissimilar. Copying frame_001123.PNG to output folder.
+Similarity between frame_001123.PNG and frame_001124.PNG: 0.80
+Similarity between frame_001124.PNG and frame_001141.PNG: 0.73
+  --- Images are dissimilar. Copying frame_001141.PNG to output folder.
+Similarity between frame_001141.PNG and frame_001142.PNG: 0.82
+Similarity between frame_001142.PNG and frame_001150.PNG: 0.70
+  --- Images are dissimilar. Copying frame_001150.PNG to output folder.
+Similarity between frame_001150.PNG and frame_001152.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001152.PNG to output folder.
+Similarity between frame_001152.PNG and frame_001154.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001154.PNG to output folder.
+Similarity between frame_001154.PNG and frame_001155.PNG: 0.83
+Similarity between frame_001155.PNG and frame_001156.PNG: 0.83
+Similarity between frame_001156.PNG and frame_001163.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001163.PNG to output folder.
+Similarity between frame_001163.PNG and frame_001164.PNG: 0.84
+Similarity between frame_001164.PNG and frame_001173.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001173.PNG to output folder.
+Similarity between frame_001173.PNG and frame_001174.PNG: 0.82
+Similarity between frame_001174.PNG and frame_001175.PNG: 0.83
+Similarity between frame_001175.PNG and frame_001177.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001177.PNG to output folder.
+Similarity between frame_001177.PNG and frame_001178.PNG: 0.84
+Similarity between frame_001178.PNG and frame_001179.PNG: 0.84
+Similarity between frame_001179.PNG and frame_001180.PNG: 0.83
+Similarity between frame_001180.PNG and frame_001181.PNG: 0.82
+Similarity between frame_001181.PNG and frame_001182.PNG: 0.86
+Similarity between frame_001182.PNG and frame_001183.PNG: 0.85
+Similarity between frame_001183.PNG and frame_001184.PNG: 0.84
+Similarity between frame_001184.PNG and frame_001185.PNG: 0.85
+Similarity between frame_001185.PNG and frame_001192.PNG: 0.80
+Similarity between frame_001192.PNG and frame_001193.PNG: 0.87
+Similarity between frame_001193.PNG and frame_001194.PNG: 0.86
+Similarity between frame_001194.PNG and frame_001195.PNG: 0.86
+Similarity between frame_001195.PNG and frame_001196.PNG: 0.84
+Similarity between frame_001196.PNG and frame_001203.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001203.PNG to output folder.
+Similarity between frame_001203.PNG and frame_001204.PNG: 0.87
+Similarity between frame_001204.PNG and frame_001209.PNG: 0.82
+Similarity between frame_001209.PNG and frame_001210.PNG: 0.87
+Similarity between frame_001210.PNG and frame_001212.PNG: 0.82
+Similarity between frame_001212.PNG and frame_001217.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001217.PNG to output folder.
+Similarity between frame_001217.PNG and frame_001218.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001218.PNG to output folder.
+Similarity between frame_001218.PNG and frame_001219.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001219.PNG to output folder.
+Similarity between frame_001219.PNG and frame_001220.PNG: 0.80
+Similarity between frame_001220.PNG and frame_001221.PNG: 0.83
+Similarity between frame_001221.PNG and frame_001222.PNG: 0.85
+Similarity between frame_001222.PNG and frame_001227.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001227.PNG to output folder.
+Similarity between frame_001227.PNG and frame_001228.PNG: 0.83
+Similarity between frame_001228.PNG and frame_001234.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001234.PNG to output folder.
+Similarity between frame_001234.PNG and frame_001235.PNG: 0.84
+Similarity between frame_001235.PNG and frame_001236.PNG: 0.86
+Similarity between frame_001236.PNG and frame_001237.PNG: 0.85
+Similarity between frame_001237.PNG and frame_001243.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001243.PNG to output folder.
+Similarity between frame_001243.PNG and frame_001244.PNG: 0.81
+Similarity between frame_001244.PNG and frame_001245.PNG: 0.80
+Similarity between frame_001245.PNG and frame_001246.PNG: 0.82
+Similarity between frame_001246.PNG and frame_001247.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001247.PNG to output folder.
+Similarity between frame_001247.PNG and frame_001248.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001248.PNG to output folder.
+Similarity between frame_001248.PNG and frame_001249.PNG: 0.80
+Similarity between frame_001249.PNG and frame_001250.PNG: 0.82
+Similarity between frame_001250.PNG and frame_001254.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001254.PNG to output folder.
+Similarity between frame_001254.PNG and frame_001255.PNG: 0.85
+Similarity between frame_001255.PNG and frame_001256.PNG: 0.86
+Similarity between frame_001256.PNG and frame_001260.PNG: 0.81
+Similarity between frame_001260.PNG and frame_001263.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001263.PNG to output folder.
+Similarity between frame_001263.PNG and frame_001264.PNG: 0.83
+Similarity between frame_001264.PNG and frame_001265.PNG: 0.83
+Similarity between frame_001265.PNG and frame_001269.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001269.PNG to output folder.
+Similarity between frame_001269.PNG and frame_001274.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001274.PNG to output folder.
+Similarity between frame_001274.PNG and frame_001275.PNG: 0.84
+Similarity between frame_001275.PNG and frame_001276.PNG: 0.80
+Similarity between frame_001276.PNG and frame_001285.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001285.PNG to output folder.
+Similarity between frame_001285.PNG and frame_001286.PNG: 0.87
+Similarity between frame_001286.PNG and frame_001287.PNG: 0.86
+Similarity between frame_001287.PNG and frame_001288.PNG: 0.85
+Similarity between frame_001288.PNG and frame_001289.PNG: 0.85
+Similarity between frame_001289.PNG and frame_001290.PNG: 0.84
+Similarity between frame_001290.PNG and frame_001292.PNG: 0.81
+Similarity between frame_001292.PNG and frame_001293.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001293.PNG to output folder.
+Similarity between frame_001293.PNG and frame_001294.PNG: 0.83
+Similarity between frame_001294.PNG and frame_001297.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001297.PNG to output folder.
+Similarity between frame_001297.PNG and frame_001298.PNG: 0.84
+Similarity between frame_001298.PNG and frame_001302.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001302.PNG to output folder.
+Similarity between frame_001302.PNG and frame_001303.PNG: 0.86
+Similarity between frame_001303.PNG and frame_001304.PNG: 0.86
+Similarity between frame_001304.PNG and frame_001305.PNG: 0.86
+Similarity between frame_001305.PNG and frame_001307.PNG: 0.85
+Similarity between frame_001307.PNG and frame_001308.PNG: 0.87
+Similarity between frame_001308.PNG and frame_001309.PNG: 0.85
+Similarity between frame_001309.PNG and frame_001314.PNG: 0.83
+Similarity between frame_001314.PNG and frame_001315.PNG: 0.84
+Similarity between frame_001315.PNG and frame_001320.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001320.PNG to output folder.
+Similarity between frame_001320.PNG and frame_001324.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001324.PNG to output folder.
+Similarity between frame_001324.PNG and frame_001325.PNG: 0.82
+Similarity between frame_001325.PNG and frame_001326.PNG: 0.86
+Similarity between frame_001326.PNG and frame_001354.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001354.PNG to output folder.
+Similarity between frame_001354.PNG and frame_001367.PNG: 0.80
+Similarity between frame_001367.PNG and frame_001411.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001411.PNG to output folder.
+Similarity between frame_001411.PNG and frame_001413.PNG: 0.83
+Similarity between frame_001413.PNG and frame_001414.PNG: 0.87
+Similarity between frame_001414.PNG and frame_001428.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001428.PNG to output folder.
+Similarity between frame_001428.PNG and frame_001433.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001433.PNG to output folder.
+Similarity between frame_001433.PNG and frame_001465.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001465.PNG to output folder.
+Similarity between frame_001465.PNG and frame_001466.PNG: 0.83
+Similarity between frame_001466.PNG and frame_001467.PNG: 0.82
+Similarity between frame_001467.PNG and frame_001468.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001468.PNG to output folder.
+Similarity between frame_001468.PNG and frame_001469.PNG: 0.81
+Similarity between frame_001469.PNG and frame_001470.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001470.PNG to output folder.
+Similarity between frame_001470.PNG and frame_001471.PNG: 0.81
+Similarity between frame_001471.PNG and frame_001476.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001476.PNG to output folder.
+Similarity between frame_001476.PNG and frame_001477.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001477.PNG to output folder.
+Similarity between frame_001477.PNG and frame_001478.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001478.PNG to output folder.
+Similarity between frame_001478.PNG and frame_001479.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001479.PNG to output folder.
+Similarity between frame_001479.PNG and frame_001480.PNG: 0.83
+Similarity between frame_001480.PNG and frame_001481.PNG: 0.84
+Similarity between frame_001481.PNG and frame_001482.PNG: 0.81
+Similarity between frame_001482.PNG and frame_001499.PNG: 0.64
+  --- Images are dissimilar. Copying frame_001499.PNG to output folder.
+Similarity between frame_001499.PNG and frame_001500.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001500.PNG to output folder.
+Similarity between frame_001500.PNG and frame_001501.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001501.PNG to output folder.
+Similarity between frame_001501.PNG and frame_001502.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001502.PNG to output folder.
+Similarity between frame_001502.PNG and frame_001503.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001503.PNG to output folder.
+Images before comparison: 285, after comparison: 122
+Finished comparing and filtering out dissimilar images. Filtered: 121
+285 images in D:\FlagDetectionDatasets\ExportedDatasetsReduced\Job_27\obj_train_data.
+Similarity between frame_000500.PNG and frame_000501.PNG: 0.80
+Similarity between frame_000501.PNG and frame_000503.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000503.PNG to output folder.
+Similarity between frame_000503.PNG and frame_000504.PNG: 0.84
+Similarity between frame_000504.PNG and frame_000510.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000510.PNG to output folder.
+Similarity between frame_000510.PNG and frame_000511.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000511.PNG to output folder.
+Similarity between frame_000511.PNG and frame_000512.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000512.PNG to output folder.
+Similarity between frame_000512.PNG and frame_000515.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000515.PNG to output folder.
+Similarity between frame_000515.PNG and frame_000520.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000520.PNG to output folder.
+Similarity between frame_000520.PNG and frame_000521.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000521.PNG to output folder.
+Similarity between frame_000521.PNG and frame_000522.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000522.PNG to output folder.
+Similarity between frame_000522.PNG and frame_000527.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000527.PNG to output folder.
+Similarity between frame_000527.PNG and frame_000529.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000529.PNG to output folder.
+Similarity between frame_000529.PNG and frame_000530.PNG: 0.83
+Similarity between frame_000530.PNG and frame_000532.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000532.PNG to output folder.
+Similarity between frame_000532.PNG and frame_000538.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000538.PNG to output folder.
+Similarity between frame_000538.PNG and frame_000539.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000539.PNG to output folder.
+Similarity between frame_000539.PNG and frame_000540.PNG: 0.81
+Similarity between frame_000540.PNG and frame_000552.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000552.PNG to output folder.
+Similarity between frame_000552.PNG and frame_000554.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000554.PNG to output folder.
+Similarity between frame_000554.PNG and frame_000555.PNG: 0.81
+Similarity between frame_000555.PNG and frame_000556.PNG: 0.81
+Similarity between frame_000556.PNG and frame_000557.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000557.PNG to output folder.
+Similarity between frame_000557.PNG and frame_000558.PNG: 0.82
+Similarity between frame_000558.PNG and frame_000559.PNG: 0.82
+Similarity between frame_000559.PNG and frame_000560.PNG: 0.84
+Similarity between frame_000560.PNG and frame_000564.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000564.PNG to output folder.
+Similarity between frame_000564.PNG and frame_000569.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000569.PNG to output folder.
+Similarity between frame_000569.PNG and frame_000578.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000578.PNG to output folder.
+Similarity between frame_000578.PNG and frame_000582.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000582.PNG to output folder.
+Similarity between frame_000582.PNG and frame_000585.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000585.PNG to output folder.
+Similarity between frame_000585.PNG and frame_000586.PNG: 0.82
+Similarity between frame_000586.PNG and frame_000587.PNG: 0.82
+Similarity between frame_000587.PNG and frame_000588.PNG: 0.85
+Similarity between frame_000588.PNG and frame_000590.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000590.PNG to output folder.
+Similarity between frame_000590.PNG and frame_000595.PNG: 0.82
+Similarity between frame_000595.PNG and frame_000596.PNG: 0.82
+Similarity between frame_000596.PNG and frame_000597.PNG: 0.86
+Similarity between frame_000597.PNG and frame_000598.PNG: 0.85
+Similarity between frame_000598.PNG and frame_000603.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000603.PNG to output folder.
+Similarity between frame_000603.PNG and frame_000604.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000604.PNG to output folder.
+Similarity between frame_000604.PNG and frame_000619.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000619.PNG to output folder.
+Similarity between frame_000619.PNG and frame_000622.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000622.PNG to output folder.
+Similarity between frame_000622.PNG and frame_000623.PNG: 0.81
+Similarity between frame_000623.PNG and frame_000624.PNG: 0.82
+Similarity between frame_000624.PNG and frame_000634.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000634.PNG to output folder.
+Similarity between frame_000634.PNG and frame_000661.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000661.PNG to output folder.
+Similarity between frame_000661.PNG and frame_000662.PNG: 0.83
+Similarity between frame_000662.PNG and frame_000663.PNG: 0.84
+Similarity between frame_000663.PNG and frame_000664.PNG: 0.85
+Similarity between frame_000664.PNG and frame_000673.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000673.PNG to output folder.
+Similarity between frame_000673.PNG and frame_000674.PNG: 0.84
+Similarity between frame_000674.PNG and frame_000675.PNG: 0.83
+Similarity between frame_000675.PNG and frame_000679.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000679.PNG to output folder.
+Similarity between frame_000679.PNG and frame_000682.PNG: 0.81
+Similarity between frame_000682.PNG and frame_000683.PNG: 0.86
+Similarity between frame_000683.PNG and frame_000685.PNG: 0.83
+Similarity between frame_000685.PNG and frame_000686.PNG: 0.82
+Similarity between frame_000686.PNG and frame_000715.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000715.PNG to output folder.
+Similarity between frame_000715.PNG and frame_000716.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000716.PNG to output folder.
+Similarity between frame_000716.PNG and frame_000742.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000742.PNG to output folder.
+Similarity between frame_000742.PNG and frame_000743.PNG: 0.87
+Similarity between frame_000743.PNG and frame_000750.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000750.PNG to output folder.
+Similarity between frame_000750.PNG and frame_000751.PNG: 0.82
+Similarity between frame_000751.PNG and frame_000752.PNG: 0.83
+Similarity between frame_000752.PNG and frame_000759.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000759.PNG to output folder.
+Similarity between frame_000759.PNG and frame_000760.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000760.PNG to output folder.
+Similarity between frame_000760.PNG and frame_000761.PNG: 0.81
+Similarity between frame_000761.PNG and frame_000762.PNG: 0.83
+Similarity between frame_000762.PNG and frame_000766.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000766.PNG to output folder.
+Similarity between frame_000766.PNG and frame_000767.PNG: 0.81
+Similarity between frame_000767.PNG and frame_000768.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000768.PNG to output folder.
+Similarity between frame_000768.PNG and frame_000770.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000770.PNG to output folder.
+Similarity between frame_000770.PNG and frame_000771.PNG: 0.81
+Similarity between frame_000771.PNG and frame_000774.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000774.PNG to output folder.
+Similarity between frame_000774.PNG and frame_000786.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000786.PNG to output folder.
+Similarity between frame_000786.PNG and frame_000787.PNG: 0.85
+Similarity between frame_000787.PNG and frame_000788.PNG: 0.83
+Similarity between frame_000788.PNG and frame_000789.PNG: 0.82
+Similarity between frame_000789.PNG and frame_000795.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000795.PNG to output folder.
+Similarity between frame_000795.PNG and frame_000796.PNG: 0.74
+  --- Images are dissimilar. Copying frame_000796.PNG to output folder.
+Similarity between frame_000796.PNG and frame_000797.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000797.PNG to output folder.
+Similarity between frame_000797.PNG and frame_000804.PNG: 0.72
+  --- Images are dissimilar. Copying frame_000804.PNG to output folder.
+Similarity between frame_000804.PNG and frame_000805.PNG: 0.83
+Similarity between frame_000805.PNG and frame_000809.PNG: 0.80
+Similarity between frame_000809.PNG and frame_000810.PNG: 0.82
+Similarity between frame_000810.PNG and frame_000812.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000812.PNG to output folder.
+Similarity between frame_000812.PNG and frame_000813.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000813.PNG to output folder.
+Similarity between frame_000813.PNG and frame_000814.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000814.PNG to output folder.
+Similarity between frame_000814.PNG and frame_000815.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000815.PNG to output folder.
+Similarity between frame_000815.PNG and frame_000816.PNG: 0.82
+Similarity between frame_000816.PNG and frame_000817.PNG: 0.84
+Similarity between frame_000817.PNG and frame_000818.PNG: 0.82
+Similarity between frame_000818.PNG and frame_000822.PNG: 0.80
+Similarity between frame_000822.PNG and frame_000825.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000825.PNG to output folder.
+Similarity between frame_000825.PNG and frame_000826.PNG: 0.80
+Similarity between frame_000826.PNG and frame_000838.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000838.PNG to output folder.
+Similarity between frame_000838.PNG and frame_000839.PNG: 0.83
+Similarity between frame_000839.PNG and frame_000843.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000843.PNG to output folder.
+Similarity between frame_000843.PNG and frame_000844.PNG: 0.85
+Similarity between frame_000844.PNG and frame_000845.PNG: 0.85
+Similarity between frame_000845.PNG and frame_000846.PNG: 0.84
+Similarity between frame_000846.PNG and frame_000847.PNG: 0.83
+Similarity between frame_000847.PNG and frame_000848.PNG: 0.82
+Similarity between frame_000848.PNG and frame_000850.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000850.PNG to output folder.
+Similarity between frame_000850.PNG and frame_000851.PNG: 0.84
+Similarity between frame_000851.PNG and frame_000852.PNG: 0.84
+Similarity between frame_000852.PNG and frame_000853.PNG: 0.83
+Similarity between frame_000853.PNG and frame_000854.PNG: 0.82
+Similarity between frame_000854.PNG and frame_000855.PNG: 0.83
+Similarity between frame_000855.PNG and frame_000857.PNG: 0.82
+Similarity between frame_000857.PNG and frame_000858.PNG: 0.84
+Similarity between frame_000858.PNG and frame_000859.PNG: 0.84
+Similarity between frame_000859.PNG and frame_000860.PNG: 0.83
+Similarity between frame_000860.PNG and frame_000885.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000885.PNG to output folder.
+Similarity between frame_000885.PNG and frame_000890.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000890.PNG to output folder.
+Similarity between frame_000890.PNG and frame_000891.PNG: 0.81
+Similarity between frame_000891.PNG and frame_000892.PNG: 0.83
+Similarity between frame_000892.PNG and frame_000906.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000906.PNG to output folder.
+Similarity between frame_000906.PNG and frame_000908.PNG: 0.84
+Similarity between frame_000908.PNG and frame_000909.PNG: 0.85
+Similarity between frame_000909.PNG and frame_000920.PNG: 0.80
+Similarity between frame_000920.PNG and frame_000921.PNG: 0.84
+Similarity between frame_000921.PNG and frame_000922.PNG: 0.85
+Similarity between frame_000922.PNG and frame_000923.PNG: 0.85
+Similarity between frame_000923.PNG and frame_000929.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000929.PNG to output folder.
+Similarity between frame_000929.PNG and frame_000933.PNG: 0.81
+Similarity between frame_000933.PNG and frame_000935.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000935.PNG to output folder.
+Similarity between frame_000935.PNG and frame_000938.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000938.PNG to output folder.
+Similarity between frame_000938.PNG and frame_000939.PNG: 0.85
+Similarity between frame_000939.PNG and frame_000944.PNG: 0.81
+Similarity between frame_000944.PNG and frame_000975.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000975.PNG to output folder.
+Similarity between frame_000975.PNG and frame_000980.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000980.PNG to output folder.
+Similarity between frame_000980.PNG and frame_000982.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000982.PNG to output folder.
+Similarity between frame_000982.PNG and frame_000983.PNG: 0.85
+Similarity between frame_000983.PNG and frame_000984.PNG: 0.84
+Similarity between frame_000984.PNG and frame_000986.PNG: 0.80
+Similarity between frame_000986.PNG and frame_000987.PNG: 0.82
+Similarity between frame_000987.PNG and frame_000989.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000989.PNG to output folder.
+Similarity between frame_000989.PNG and frame_000990.PNG: 0.81
+Similarity between frame_000990.PNG and frame_000991.PNG: 0.80
+Similarity between frame_000991.PNG and frame_000992.PNG: 0.81
+Similarity between frame_000992.PNG and frame_000993.PNG: 0.81
+Similarity between frame_000993.PNG and frame_000994.PNG: 0.81
+Similarity between frame_000994.PNG and frame_000995.PNG: 0.81
+Similarity between frame_000995.PNG and frame_000996.PNG: 0.83
+Similarity between frame_000996.PNG and frame_000997.PNG: 0.82
+Similarity between frame_000997.PNG and frame_000998.PNG: 0.82
+Similarity between frame_000998.PNG and frame_000999.PNG: 0.83
+Similarity between frame_000999.PNG and frame_001006.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001006.PNG to output folder.
+Similarity between frame_001006.PNG and frame_001008.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001008.PNG to output folder.
+Similarity between frame_001008.PNG and frame_001012.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001012.PNG to output folder.
+Similarity between frame_001012.PNG and frame_001025.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001025.PNG to output folder.
+Similarity between frame_001025.PNG and frame_001027.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001027.PNG to output folder.
+Similarity between frame_001027.PNG and frame_001028.PNG: 0.81
+Similarity between frame_001028.PNG and frame_001043.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001043.PNG to output folder.
+Similarity between frame_001043.PNG and frame_001047.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001047.PNG to output folder.
+Similarity between frame_001047.PNG and frame_001082.PNG: 0.71
+  --- Images are dissimilar. Copying frame_001082.PNG to output folder.
+Similarity between frame_001082.PNG and frame_001083.PNG: 0.83
+Similarity between frame_001083.PNG and frame_001085.PNG: 0.82
+Similarity between frame_001085.PNG and frame_001086.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001086.PNG to output folder.
+Similarity between frame_001086.PNG and frame_001087.PNG: 0.81
+Similarity between frame_001087.PNG and frame_001088.PNG: 0.84
+Similarity between frame_001088.PNG and frame_001089.PNG: 0.85
+Similarity between frame_001089.PNG and frame_001111.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001111.PNG to output folder.
+Similarity between frame_001111.PNG and frame_001112.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001112.PNG to output folder.
+Similarity between frame_001112.PNG and frame_001113.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001113.PNG to output folder.
+Similarity between frame_001113.PNG and frame_001114.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001114.PNG to output folder.
+Similarity between frame_001114.PNG and frame_001118.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001118.PNG to output folder.
+Similarity between frame_001118.PNG and frame_001119.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001119.PNG to output folder.
+Similarity between frame_001119.PNG and frame_001120.PNG: 0.81
+Similarity between frame_001120.PNG and frame_001123.PNG: 0.73
+  --- Images are dissimilar. Copying frame_001123.PNG to output folder.
+Similarity between frame_001123.PNG and frame_001124.PNG: 0.80
+Similarity between frame_001124.PNG and frame_001141.PNG: 0.73
+  --- Images are dissimilar. Copying frame_001141.PNG to output folder.
+Similarity between frame_001141.PNG and frame_001142.PNG: 0.82
+Similarity between frame_001142.PNG and frame_001150.PNG: 0.70
+  --- Images are dissimilar. Copying frame_001150.PNG to output folder.
+Similarity between frame_001150.PNG and frame_001152.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001152.PNG to output folder.
+Similarity between frame_001152.PNG and frame_001154.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001154.PNG to output folder.
+Similarity between frame_001154.PNG and frame_001155.PNG: 0.83
+Similarity between frame_001155.PNG and frame_001156.PNG: 0.83
+Similarity between frame_001156.PNG and frame_001163.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001163.PNG to output folder.
+Similarity between frame_001163.PNG and frame_001164.PNG: 0.84
+Similarity between frame_001164.PNG and frame_001173.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001173.PNG to output folder.
+Similarity between frame_001173.PNG and frame_001174.PNG: 0.82
+Similarity between frame_001174.PNG and frame_001175.PNG: 0.83
+Similarity between frame_001175.PNG and frame_001177.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001177.PNG to output folder.
+Similarity between frame_001177.PNG and frame_001178.PNG: 0.84
+Similarity between frame_001178.PNG and frame_001179.PNG: 0.84
+Similarity between frame_001179.PNG and frame_001180.PNG: 0.83
+Similarity between frame_001180.PNG and frame_001181.PNG: 0.82
+Similarity between frame_001181.PNG and frame_001182.PNG: 0.86
+Similarity between frame_001182.PNG and frame_001183.PNG: 0.85
+Similarity between frame_001183.PNG and frame_001184.PNG: 0.84
+Similarity between frame_001184.PNG and frame_001185.PNG: 0.85
+Similarity between frame_001185.PNG and frame_001192.PNG: 0.80
+Similarity between frame_001192.PNG and frame_001193.PNG: 0.87
+Similarity between frame_001193.PNG and frame_001194.PNG: 0.86
+Similarity between frame_001194.PNG and frame_001195.PNG: 0.86
+Similarity between frame_001195.PNG and frame_001196.PNG: 0.84
+Similarity between frame_001196.PNG and frame_001203.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001203.PNG to output folder.
+Similarity between frame_001203.PNG and frame_001204.PNG: 0.87
+Similarity between frame_001204.PNG and frame_001209.PNG: 0.82
+Similarity between frame_001209.PNG and frame_001210.PNG: 0.87
+Similarity between frame_001210.PNG and frame_001212.PNG: 0.82
+Similarity between frame_001212.PNG and frame_001217.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001217.PNG to output folder.
+Similarity between frame_001217.PNG and frame_001218.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001218.PNG to output folder.
+Similarity between frame_001218.PNG and frame_001219.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001219.PNG to output folder.
+Similarity between frame_001219.PNG and frame_001220.PNG: 0.80
+Similarity between frame_001220.PNG and frame_001221.PNG: 0.83
+Similarity between frame_001221.PNG and frame_001222.PNG: 0.85
+Similarity between frame_001222.PNG and frame_001227.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001227.PNG to output folder.
+Similarity between frame_001227.PNG and frame_001228.PNG: 0.83
+Similarity between frame_001228.PNG and frame_001234.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001234.PNG to output folder.
+Similarity between frame_001234.PNG and frame_001235.PNG: 0.84
+Similarity between frame_001235.PNG and frame_001236.PNG: 0.86
+Similarity between frame_001236.PNG and frame_001237.PNG: 0.85
+Similarity between frame_001237.PNG and frame_001243.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001243.PNG to output folder.
+Similarity between frame_001243.PNG and frame_001244.PNG: 0.81
+Similarity between frame_001244.PNG and frame_001245.PNG: 0.80
+Similarity between frame_001245.PNG and frame_001246.PNG: 0.82
+Similarity between frame_001246.PNG and frame_001247.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001247.PNG to output folder.
+Similarity between frame_001247.PNG and frame_001248.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001248.PNG to output folder.
+Similarity between frame_001248.PNG and frame_001249.PNG: 0.80
+Similarity between frame_001249.PNG and frame_001250.PNG: 0.82
+Similarity between frame_001250.PNG and frame_001254.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001254.PNG to output folder.
+Similarity between frame_001254.PNG and frame_001255.PNG: 0.85
+Similarity between frame_001255.PNG and frame_001256.PNG: 0.86
+Similarity between frame_001256.PNG and frame_001260.PNG: 0.81
+Similarity between frame_001260.PNG and frame_001263.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001263.PNG to output folder.
+Similarity between frame_001263.PNG and frame_001264.PNG: 0.83
+Similarity between frame_001264.PNG and frame_001265.PNG: 0.83
+Similarity between frame_001265.PNG and frame_001269.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001269.PNG to output folder.
+Similarity between frame_001269.PNG and frame_001274.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001274.PNG to output folder.
+Similarity between frame_001274.PNG and frame_001275.PNG: 0.84
+Similarity between frame_001275.PNG and frame_001276.PNG: 0.80
+Similarity between frame_001276.PNG and frame_001285.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001285.PNG to output folder.
+Similarity between frame_001285.PNG and frame_001286.PNG: 0.87
+Similarity between frame_001286.PNG and frame_001287.PNG: 0.86
+Similarity between frame_001287.PNG and frame_001288.PNG: 0.85
+Similarity between frame_001288.PNG and frame_001289.PNG: 0.85
+Similarity between frame_001289.PNG and frame_001290.PNG: 0.84
+Similarity between frame_001290.PNG and frame_001292.PNG: 0.81
+Similarity between frame_001292.PNG and frame_001293.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001293.PNG to output folder.
+Similarity between frame_001293.PNG and frame_001294.PNG: 0.83
+Similarity between frame_001294.PNG and frame_001297.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001297.PNG to output folder.
+Similarity between frame_001297.PNG and frame_001298.PNG: 0.84
+Similarity between frame_001298.PNG and frame_001302.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001302.PNG to output folder.
+Similarity between frame_001302.PNG and frame_001303.PNG: 0.86
+Similarity between frame_001303.PNG and frame_001304.PNG: 0.86
+Similarity between frame_001304.PNG and frame_001305.PNG: 0.86
+Similarity between frame_001305.PNG and frame_001307.PNG: 0.85
+Similarity between frame_001307.PNG and frame_001308.PNG: 0.87
+Similarity between frame_001308.PNG and frame_001309.PNG: 0.85
+Similarity between frame_001309.PNG and frame_001314.PNG: 0.83
+Similarity between frame_001314.PNG and frame_001315.PNG: 0.84
+Similarity between frame_001315.PNG and frame_001320.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001320.PNG to output folder.
+Similarity between frame_001320.PNG and frame_001324.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001324.PNG to output folder.
+Similarity between frame_001324.PNG and frame_001325.PNG: 0.82
+Similarity between frame_001325.PNG and frame_001326.PNG: 0.86
+Similarity between frame_001326.PNG and frame_001354.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001354.PNG to output folder.
+Similarity between frame_001354.PNG and frame_001367.PNG: 0.80
+Similarity between frame_001367.PNG and frame_001411.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001411.PNG to output folder.
+Similarity between frame_001411.PNG and frame_001413.PNG: 0.83
+Similarity between frame_001413.PNG and frame_001414.PNG: 0.87
+Similarity between frame_001414.PNG and frame_001428.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001428.PNG to output folder.
+Similarity between frame_001428.PNG and frame_001433.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001433.PNG to output folder.
+Similarity between frame_001433.PNG and frame_001465.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001465.PNG to output folder.
+Similarity between frame_001465.PNG and frame_001466.PNG: 0.83
+Similarity between frame_001466.PNG and frame_001467.PNG: 0.82
+Similarity between frame_001467.PNG and frame_001468.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001468.PNG to output folder.
+Similarity between frame_001468.PNG and frame_001469.PNG: 0.81
+Similarity between frame_001469.PNG and frame_001470.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001470.PNG to output folder.
+Similarity between frame_001470.PNG and frame_001471.PNG: 0.81
+Similarity between frame_001471.PNG and frame_001476.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001476.PNG to output folder.
+Similarity between frame_001476.PNG and frame_001477.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001477.PNG to output folder.
+Similarity between frame_001477.PNG and frame_001478.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001478.PNG to output folder.
+Similarity between frame_001478.PNG and frame_001479.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001479.PNG to output folder.
+Similarity between frame_001479.PNG and frame_001480.PNG: 0.83
+Similarity between frame_001480.PNG and frame_001481.PNG: 0.84
+Similarity between frame_001481.PNG and frame_001482.PNG: 0.81
+Similarity between frame_001482.PNG and frame_001499.PNG: 0.64
+  --- Images are dissimilar. Copying frame_001499.PNG to output folder.
+Similarity between frame_001499.PNG and frame_001500.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001500.PNG to output folder.
+Similarity between frame_001500.PNG and frame_001501.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001501.PNG to output folder.
+Similarity between frame_001501.PNG and frame_001502.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001502.PNG to output folder.
+Similarity between frame_001502.PNG and frame_001503.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001503.PNG to output folder.
+Images before comparison: 285, after comparison: 122
+Finished comparing and filtering out dissimilar images. Filtered: 121
+285 images in D:\FlagDetectionDatasets\ExportedDatasetsReduced\Job_27\obj_train_data.
+Similarity between frame_000500.PNG and frame_000501.PNG: 0.80
+Similarity between frame_000501.PNG and frame_000503.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000503.PNG to output folder.
+Similarity between frame_000503.PNG and frame_000504.PNG: 0.84
+Similarity between frame_000504.PNG and frame_000510.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000510.PNG to output folder.
+Similarity between frame_000510.PNG and frame_000511.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000511.PNG to output folder.
+Similarity between frame_000511.PNG and frame_000512.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000512.PNG to output folder.
+Similarity between frame_000512.PNG and frame_000515.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000515.PNG to output folder.
+Similarity between frame_000515.PNG and frame_000520.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000520.PNG to output folder.
+Similarity between frame_000520.PNG and frame_000521.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000521.PNG to output folder.
+Similarity between frame_000521.PNG and frame_000522.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000522.PNG to output folder.
+Similarity between frame_000522.PNG and frame_000527.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000527.PNG to output folder.
+Similarity between frame_000527.PNG and frame_000529.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000529.PNG to output folder.
+Similarity between frame_000529.PNG and frame_000530.PNG: 0.83
+Similarity between frame_000530.PNG and frame_000532.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000532.PNG to output folder.
+Similarity between frame_000532.PNG and frame_000538.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000538.PNG to output folder.
+Similarity between frame_000538.PNG and frame_000539.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000539.PNG to output folder.
+Similarity between frame_000539.PNG and frame_000540.PNG: 0.81
+Similarity between frame_000540.PNG and frame_000552.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000552.PNG to output folder.
+Similarity between frame_000552.PNG and frame_000554.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000554.PNG to output folder.
+Similarity between frame_000554.PNG and frame_000555.PNG: 0.81
+Similarity between frame_000555.PNG and frame_000556.PNG: 0.81
+Similarity between frame_000556.PNG and frame_000557.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000557.PNG to output folder.
+Similarity between frame_000557.PNG and frame_000558.PNG: 0.82
+Similarity between frame_000558.PNG and frame_000559.PNG: 0.82
+Similarity between frame_000559.PNG and frame_000560.PNG: 0.84
+Similarity between frame_000560.PNG and frame_000564.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000564.PNG to output folder.
+Similarity between frame_000564.PNG and frame_000569.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000569.PNG to output folder.
+Similarity between frame_000569.PNG and frame_000578.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000578.PNG to output folder.
+Similarity between frame_000578.PNG and frame_000582.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000582.PNG to output folder.
+Similarity between frame_000582.PNG and frame_000585.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000585.PNG to output folder.
+Similarity between frame_000585.PNG and frame_000586.PNG: 0.82
+Similarity between frame_000586.PNG and frame_000587.PNG: 0.82
+Similarity between frame_000587.PNG and frame_000588.PNG: 0.85
+Similarity between frame_000588.PNG and frame_000590.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000590.PNG to output folder.
+Similarity between frame_000590.PNG and frame_000595.PNG: 0.82
+Similarity between frame_000595.PNG and frame_000596.PNG: 0.82
+Similarity between frame_000596.PNG and frame_000597.PNG: 0.86
+Similarity between frame_000597.PNG and frame_000598.PNG: 0.85
+Similarity between frame_000598.PNG and frame_000603.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000603.PNG to output folder.
+Similarity between frame_000603.PNG and frame_000604.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000604.PNG to output folder.
+Similarity between frame_000604.PNG and frame_000619.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000619.PNG to output folder.
+Similarity between frame_000619.PNG and frame_000622.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000622.PNG to output folder.
+Similarity between frame_000622.PNG and frame_000623.PNG: 0.81
+Similarity between frame_000623.PNG and frame_000624.PNG: 0.82
+Similarity between frame_000624.PNG and frame_000634.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000634.PNG to output folder.
+Similarity between frame_000634.PNG and frame_000661.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000661.PNG to output folder.
+Similarity between frame_000661.PNG and frame_000662.PNG: 0.83
+Similarity between frame_000662.PNG and frame_000663.PNG: 0.84
+Similarity between frame_000663.PNG and frame_000664.PNG: 0.85
+Similarity between frame_000664.PNG and frame_000673.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000673.PNG to output folder.
+Similarity between frame_000673.PNG and frame_000674.PNG: 0.84
+Similarity between frame_000674.PNG and frame_000675.PNG: 0.83
+Similarity between frame_000675.PNG and frame_000679.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000679.PNG to output folder.
+Similarity between frame_000679.PNG and frame_000682.PNG: 0.81
+Similarity between frame_000682.PNG and frame_000683.PNG: 0.86
+Similarity between frame_000683.PNG and frame_000685.PNG: 0.83
+Similarity between frame_000685.PNG and frame_000686.PNG: 0.82
+Similarity between frame_000686.PNG and frame_000715.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000715.PNG to output folder.
+Similarity between frame_000715.PNG and frame_000716.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000716.PNG to output folder.
+Similarity between frame_000716.PNG and frame_000742.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000742.PNG to output folder.
+Similarity between frame_000742.PNG and frame_000743.PNG: 0.87
+Similarity between frame_000743.PNG and frame_000750.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000750.PNG to output folder.
+Similarity between frame_000750.PNG and frame_000751.PNG: 0.82
+Similarity between frame_000751.PNG and frame_000752.PNG: 0.83
+Similarity between frame_000752.PNG and frame_000759.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000759.PNG to output folder.
+Similarity between frame_000759.PNG and frame_000760.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000760.PNG to output folder.
+Similarity between frame_000760.PNG and frame_000761.PNG: 0.81
+Similarity between frame_000761.PNG and frame_000762.PNG: 0.83
+Similarity between frame_000762.PNG and frame_000766.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000766.PNG to output folder.
+Similarity between frame_000766.PNG and frame_000767.PNG: 0.81
+Similarity between frame_000767.PNG and frame_000768.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000768.PNG to output folder.
+Similarity between frame_000768.PNG and frame_000770.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000770.PNG to output folder.
+Similarity between frame_000770.PNG and frame_000771.PNG: 0.81
+Similarity between frame_000771.PNG and frame_000774.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000774.PNG to output folder.
+Similarity between frame_000774.PNG and frame_000786.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000786.PNG to output folder.
+Similarity between frame_000786.PNG and frame_000787.PNG: 0.85
+Similarity between frame_000787.PNG and frame_000788.PNG: 0.83
+Similarity between frame_000788.PNG and frame_000789.PNG: 0.82
+Similarity between frame_000789.PNG and frame_000795.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000795.PNG to output folder.
+Similarity between frame_000795.PNG and frame_000796.PNG: 0.74
+  --- Images are dissimilar. Copying frame_000796.PNG to output folder.
+Similarity between frame_000796.PNG and frame_000797.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000797.PNG to output folder.
+Similarity between frame_000797.PNG and frame_000804.PNG: 0.72
+  --- Images are dissimilar. Copying frame_000804.PNG to output folder.
+Similarity between frame_000804.PNG and frame_000805.PNG: 0.83
+Similarity between frame_000805.PNG and frame_000809.PNG: 0.80
+Similarity between frame_000809.PNG and frame_000810.PNG: 0.82
+Similarity between frame_000810.PNG and frame_000812.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000812.PNG to output folder.
+Similarity between frame_000812.PNG and frame_000813.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000813.PNG to output folder.
+Similarity between frame_000813.PNG and frame_000814.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000814.PNG to output folder.
+Similarity between frame_000814.PNG and frame_000815.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000815.PNG to output folder.
+Similarity between frame_000815.PNG and frame_000816.PNG: 0.82
+Similarity between frame_000816.PNG and frame_000817.PNG: 0.84
+Similarity between frame_000817.PNG and frame_000818.PNG: 0.82
+Similarity between frame_000818.PNG and frame_000822.PNG: 0.80
+Similarity between frame_000822.PNG and frame_000825.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000825.PNG to output folder.
+Similarity between frame_000825.PNG and frame_000826.PNG: 0.80
+Similarity between frame_000826.PNG and frame_000838.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000838.PNG to output folder.
+Similarity between frame_000838.PNG and frame_000839.PNG: 0.83
+Similarity between frame_000839.PNG and frame_000843.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000843.PNG to output folder.
+Similarity between frame_000843.PNG and frame_000844.PNG: 0.85
+Similarity between frame_000844.PNG and frame_000845.PNG: 0.85
+Similarity between frame_000845.PNG and frame_000846.PNG: 0.84
+Similarity between frame_000846.PNG and frame_000847.PNG: 0.83
+Similarity between frame_000847.PNG and frame_000848.PNG: 0.82
+Similarity between frame_000848.PNG and frame_000850.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000850.PNG to output folder.
+Similarity between frame_000850.PNG and frame_000851.PNG: 0.84
+Similarity between frame_000851.PNG and frame_000852.PNG: 0.84
+Similarity between frame_000852.PNG and frame_000853.PNG: 0.83
+Similarity between frame_000853.PNG and frame_000854.PNG: 0.82
+Similarity between frame_000854.PNG and frame_000855.PNG: 0.83
+Similarity between frame_000855.PNG and frame_000857.PNG: 0.82
+Similarity between frame_000857.PNG and frame_000858.PNG: 0.84
+Similarity between frame_000858.PNG and frame_000859.PNG: 0.84
+Similarity between frame_000859.PNG and frame_000860.PNG: 0.83
+Similarity between frame_000860.PNG and frame_000885.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000885.PNG to output folder.
+Similarity between frame_000885.PNG and frame_000890.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000890.PNG to output folder.
+Similarity between frame_000890.PNG and frame_000891.PNG: 0.81
+Similarity between frame_000891.PNG and frame_000892.PNG: 0.83
+Similarity between frame_000892.PNG and frame_000906.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000906.PNG to output folder.
+Similarity between frame_000906.PNG and frame_000908.PNG: 0.84
+Similarity between frame_000908.PNG and frame_000909.PNG: 0.85
+Similarity between frame_000909.PNG and frame_000920.PNG: 0.80
+Similarity between frame_000920.PNG and frame_000921.PNG: 0.84
+Similarity between frame_000921.PNG and frame_000922.PNG: 0.85
+Similarity between frame_000922.PNG and frame_000923.PNG: 0.85
+Similarity between frame_000923.PNG and frame_000929.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000929.PNG to output folder.
+Similarity between frame_000929.PNG and frame_000933.PNG: 0.81
+Similarity between frame_000933.PNG and frame_000935.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000935.PNG to output folder.
+Similarity between frame_000935.PNG and frame_000938.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000938.PNG to output folder.
+Similarity between frame_000938.PNG and frame_000939.PNG: 0.85
+Similarity between frame_000939.PNG and frame_000944.PNG: 0.81
+Similarity between frame_000944.PNG and frame_000975.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000975.PNG to output folder.
+Similarity between frame_000975.PNG and frame_000980.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000980.PNG to output folder.
+Similarity between frame_000980.PNG and frame_000982.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000982.PNG to output folder.
+Similarity between frame_000982.PNG and frame_000983.PNG: 0.85
+Similarity between frame_000983.PNG and frame_000984.PNG: 0.84
+Similarity between frame_000984.PNG and frame_000986.PNG: 0.80
+Similarity between frame_000986.PNG and frame_000987.PNG: 0.82
+Similarity between frame_000987.PNG and frame_000989.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000989.PNG to output folder.
+Similarity between frame_000989.PNG and frame_000990.PNG: 0.81
+Similarity between frame_000990.PNG and frame_000991.PNG: 0.80
+Similarity between frame_000991.PNG and frame_000992.PNG: 0.81
+Similarity between frame_000992.PNG and frame_000993.PNG: 0.81
+Similarity between frame_000993.PNG and frame_000994.PNG: 0.81
+Similarity between frame_000994.PNG and frame_000995.PNG: 0.81
+Similarity between frame_000995.PNG and frame_000996.PNG: 0.83
+Similarity between frame_000996.PNG and frame_000997.PNG: 0.82
+Similarity between frame_000997.PNG and frame_000998.PNG: 0.82
+Similarity between frame_000998.PNG and frame_000999.PNG: 0.83
+Similarity between frame_000999.PNG and frame_001006.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001006.PNG to output folder.
+Similarity between frame_001006.PNG and frame_001008.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001008.PNG to output folder.
+Similarity between frame_001008.PNG and frame_001012.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001012.PNG to output folder.
+Similarity between frame_001012.PNG and frame_001025.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001025.PNG to output folder.
+Similarity between frame_001025.PNG and frame_001027.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001027.PNG to output folder.
+Similarity between frame_001027.PNG and frame_001028.PNG: 0.81
+Similarity between frame_001028.PNG and frame_001043.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001043.PNG to output folder.
+Similarity between frame_001043.PNG and frame_001047.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001047.PNG to output folder.
+Similarity between frame_001047.PNG and frame_001082.PNG: 0.71
+  --- Images are dissimilar. Copying frame_001082.PNG to output folder.
+Similarity between frame_001082.PNG and frame_001083.PNG: 0.83
+Similarity between frame_001083.PNG and frame_001085.PNG: 0.82
+Similarity between frame_001085.PNG and frame_001086.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001086.PNG to output folder.
+Similarity between frame_001086.PNG and frame_001087.PNG: 0.81
+Similarity between frame_001087.PNG and frame_001088.PNG: 0.84
+Similarity between frame_001088.PNG and frame_001089.PNG: 0.85
+Similarity between frame_001089.PNG and frame_001111.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001111.PNG to output folder.
+Similarity between frame_001111.PNG and frame_001112.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001112.PNG to output folder.
+Similarity between frame_001112.PNG and frame_001113.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001113.PNG to output folder.
+Similarity between frame_001113.PNG and frame_001114.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001114.PNG to output folder.
+Similarity between frame_001114.PNG and frame_001118.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001118.PNG to output folder.
+Similarity between frame_001118.PNG and frame_001119.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001119.PNG to output folder.
+Similarity between frame_001119.PNG and frame_001120.PNG: 0.81
+Similarity between frame_001120.PNG and frame_001123.PNG: 0.73
+  --- Images are dissimilar. Copying frame_001123.PNG to output folder.
+Similarity between frame_001123.PNG and frame_001124.PNG: 0.80
+Similarity between frame_001124.PNG and frame_001141.PNG: 0.73
+  --- Images are dissimilar. Copying frame_001141.PNG to output folder.
+Similarity between frame_001141.PNG and frame_001142.PNG: 0.82
+Similarity between frame_001142.PNG and frame_001150.PNG: 0.70
+  --- Images are dissimilar. Copying frame_001150.PNG to output folder.
+Similarity between frame_001150.PNG and frame_001152.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001152.PNG to output folder.
+Similarity between frame_001152.PNG and frame_001154.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001154.PNG to output folder.
+Similarity between frame_001154.PNG and frame_001155.PNG: 0.83
+Similarity between frame_001155.PNG and frame_001156.PNG: 0.83
+Similarity between frame_001156.PNG and frame_001163.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001163.PNG to output folder.
+Similarity between frame_001163.PNG and frame_001164.PNG: 0.84
+Similarity between frame_001164.PNG and frame_001173.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001173.PNG to output folder.
+Similarity between frame_001173.PNG and frame_001174.PNG: 0.82
+Similarity between frame_001174.PNG and frame_001175.PNG: 0.83
+Similarity between frame_001175.PNG and frame_001177.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001177.PNG to output folder.
+Similarity between frame_001177.PNG and frame_001178.PNG: 0.84
+Similarity between frame_001178.PNG and frame_001179.PNG: 0.84
+Similarity between frame_001179.PNG and frame_001180.PNG: 0.83
+Similarity between frame_001180.PNG and frame_001181.PNG: 0.82
+Similarity between frame_001181.PNG and frame_001182.PNG: 0.86
+Similarity between frame_001182.PNG and frame_001183.PNG: 0.85
+Similarity between frame_001183.PNG and frame_001184.PNG: 0.84
+Similarity between frame_001184.PNG and frame_001185.PNG: 0.85
+Similarity between frame_001185.PNG and frame_001192.PNG: 0.80
+Similarity between frame_001192.PNG and frame_001193.PNG: 0.87
+Similarity between frame_001193.PNG and frame_001194.PNG: 0.86
+Similarity between frame_001194.PNG and frame_001195.PNG: 0.86
+Similarity between frame_001195.PNG and frame_001196.PNG: 0.84
+Similarity between frame_001196.PNG and frame_001203.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001203.PNG to output folder.
+Similarity between frame_001203.PNG and frame_001204.PNG: 0.87
+Similarity between frame_001204.PNG and frame_001209.PNG: 0.82
+Similarity between frame_001209.PNG and frame_001210.PNG: 0.87
+Similarity between frame_001210.PNG and frame_001212.PNG: 0.82
+Similarity between frame_001212.PNG and frame_001217.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001217.PNG to output folder.
+Similarity between frame_001217.PNG and frame_001218.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001218.PNG to output folder.
+Similarity between frame_001218.PNG and frame_001219.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001219.PNG to output folder.
+Similarity between frame_001219.PNG and frame_001220.PNG: 0.80
+Similarity between frame_001220.PNG and frame_001221.PNG: 0.83
+Similarity between frame_001221.PNG and frame_001222.PNG: 0.85
+Similarity between frame_001222.PNG and frame_001227.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001227.PNG to output folder.
+Similarity between frame_001227.PNG and frame_001228.PNG: 0.83
+Similarity between frame_001228.PNG and frame_001234.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001234.PNG to output folder.
+Similarity between frame_001234.PNG and frame_001235.PNG: 0.84
+Similarity between frame_001235.PNG and frame_001236.PNG: 0.86
+Similarity between frame_001236.PNG and frame_001237.PNG: 0.85
+Similarity between frame_001237.PNG and frame_001243.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001243.PNG to output folder.
+Similarity between frame_001243.PNG and frame_001244.PNG: 0.81
+Similarity between frame_001244.PNG and frame_001245.PNG: 0.80
+Similarity between frame_001245.PNG and frame_001246.PNG: 0.82
+Similarity between frame_001246.PNG and frame_001247.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001247.PNG to output folder.
+Similarity between frame_001247.PNG and frame_001248.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001248.PNG to output folder.
+Similarity between frame_001248.PNG and frame_001249.PNG: 0.80
+Similarity between frame_001249.PNG and frame_001250.PNG: 0.82
+Similarity between frame_001250.PNG and frame_001254.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001254.PNG to output folder.
+Similarity between frame_001254.PNG and frame_001255.PNG: 0.85
+Similarity between frame_001255.PNG and frame_001256.PNG: 0.86
+Similarity between frame_001256.PNG and frame_001260.PNG: 0.81
+Similarity between frame_001260.PNG and frame_001263.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001263.PNG to output folder.
+Similarity between frame_001263.PNG and frame_001264.PNG: 0.83
+Similarity between frame_001264.PNG and frame_001265.PNG: 0.83
+Similarity between frame_001265.PNG and frame_001269.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001269.PNG to output folder.
+Similarity between frame_001269.PNG and frame_001274.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001274.PNG to output folder.
+Similarity between frame_001274.PNG and frame_001275.PNG: 0.84
+Similarity between frame_001275.PNG and frame_001276.PNG: 0.80
+Similarity between frame_001276.PNG and frame_001285.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001285.PNG to output folder.
+Similarity between frame_001285.PNG and frame_001286.PNG: 0.87
+Similarity between frame_001286.PNG and frame_001287.PNG: 0.86
+Similarity between frame_001287.PNG and frame_001288.PNG: 0.85
+Similarity between frame_001288.PNG and frame_001289.PNG: 0.85
+Similarity between frame_001289.PNG and frame_001290.PNG: 0.84
+Similarity between frame_001290.PNG and frame_001292.PNG: 0.81
+Similarity between frame_001292.PNG and frame_001293.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001293.PNG to output folder.
+Similarity between frame_001293.PNG and frame_001294.PNG: 0.83
+Similarity between frame_001294.PNG and frame_001297.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001297.PNG to output folder.
+Similarity between frame_001297.PNG and frame_001298.PNG: 0.84
+Similarity between frame_001298.PNG and frame_001302.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001302.PNG to output folder.
+Similarity between frame_001302.PNG and frame_001303.PNG: 0.86
+Similarity between frame_001303.PNG and frame_001304.PNG: 0.86
+Similarity between frame_001304.PNG and frame_001305.PNG: 0.86
+Similarity between frame_001305.PNG and frame_001307.PNG: 0.85
+Similarity between frame_001307.PNG and frame_001308.PNG: 0.87
+Similarity between frame_001308.PNG and frame_001309.PNG: 0.85
+Similarity between frame_001309.PNG and frame_001314.PNG: 0.83
+Similarity between frame_001314.PNG and frame_001315.PNG: 0.84
+Similarity between frame_001315.PNG and frame_001320.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001320.PNG to output folder.
+Similarity between frame_001320.PNG and frame_001324.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001324.PNG to output folder.
+Similarity between frame_001324.PNG and frame_001325.PNG: 0.82
+Similarity between frame_001325.PNG and frame_001326.PNG: 0.86
+Similarity between frame_001326.PNG and frame_001354.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001354.PNG to output folder.
+Similarity between frame_001354.PNG and frame_001367.PNG: 0.80
+Similarity between frame_001367.PNG and frame_001411.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001411.PNG to output folder.
+Similarity between frame_001411.PNG and frame_001413.PNG: 0.83
+Similarity between frame_001413.PNG and frame_001414.PNG: 0.87
+Similarity between frame_001414.PNG and frame_001428.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001428.PNG to output folder.
+Similarity between frame_001428.PNG and frame_001433.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001433.PNG to output folder.
+Similarity between frame_001433.PNG and frame_001465.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001465.PNG to output folder.
+Similarity between frame_001465.PNG and frame_001466.PNG: 0.83
+Similarity between frame_001466.PNG and frame_001467.PNG: 0.82
+Similarity between frame_001467.PNG and frame_001468.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001468.PNG to output folder.
+Similarity between frame_001468.PNG and frame_001469.PNG: 0.81
+Similarity between frame_001469.PNG and frame_001470.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001470.PNG to output folder.
+Similarity between frame_001470.PNG and frame_001471.PNG: 0.81
+Similarity between frame_001471.PNG and frame_001476.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001476.PNG to output folder.
+Similarity between frame_001476.PNG and frame_001477.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001477.PNG to output folder.
+Similarity between frame_001477.PNG and frame_001478.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001478.PNG to output folder.
+Similarity between frame_001478.PNG and frame_001479.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001479.PNG to output folder.
+Similarity between frame_001479.PNG and frame_001480.PNG: 0.83
+Similarity between frame_001480.PNG and frame_001481.PNG: 0.84
+Similarity between frame_001481.PNG and frame_001482.PNG: 0.81
+Similarity between frame_001482.PNG and frame_001499.PNG: 0.64
+  --- Images are dissimilar. Copying frame_001499.PNG to output folder.
+Similarity between frame_001499.PNG and frame_001500.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001500.PNG to output folder.
+Similarity between frame_001500.PNG and frame_001501.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001501.PNG to output folder.
+Similarity between frame_001501.PNG and frame_001502.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001502.PNG to output folder.
+Similarity between frame_001502.PNG and frame_001503.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001503.PNG to output folder.
+Images before comparison: 285, after comparison: 122
+Finished comparing and filtering out dissimilar images. Filtered: 121
+285 images in D:\FlagDetectionDatasets\ExportedDatasetsReduced\Job_27\obj_train_data.
+Similarity between frame_000500.PNG and frame_000501.PNG: 0.80
+Similarity between frame_000501.PNG and frame_000503.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000503.PNG to output folder.
+Similarity between frame_000503.PNG and frame_000504.PNG: 0.84
+Similarity between frame_000504.PNG and frame_000510.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000510.PNG to output folder.
+Similarity between frame_000510.PNG and frame_000511.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000511.PNG to output folder.
+Similarity between frame_000511.PNG and frame_000512.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000512.PNG to output folder.
+Similarity between frame_000512.PNG and frame_000515.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000515.PNG to output folder.
+Similarity between frame_000515.PNG and frame_000520.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000520.PNG to output folder.
+Similarity between frame_000520.PNG and frame_000521.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000521.PNG to output folder.
+Similarity between frame_000521.PNG and frame_000522.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000522.PNG to output folder.
+Similarity between frame_000522.PNG and frame_000527.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000527.PNG to output folder.
+Similarity between frame_000527.PNG and frame_000529.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000529.PNG to output folder.
+Similarity between frame_000529.PNG and frame_000530.PNG: 0.83
+Similarity between frame_000530.PNG and frame_000532.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000532.PNG to output folder.
+Similarity between frame_000532.PNG and frame_000538.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000538.PNG to output folder.
+Similarity between frame_000538.PNG and frame_000539.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000539.PNG to output folder.
+Similarity between frame_000539.PNG and frame_000540.PNG: 0.81
+Similarity between frame_000540.PNG and frame_000552.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000552.PNG to output folder.
+Similarity between frame_000552.PNG and frame_000554.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000554.PNG to output folder.
+Similarity between frame_000554.PNG and frame_000555.PNG: 0.81
+Similarity between frame_000555.PNG and frame_000556.PNG: 0.81
+Similarity between frame_000556.PNG and frame_000557.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000557.PNG to output folder.
+Similarity between frame_000557.PNG and frame_000558.PNG: 0.82
+Similarity between frame_000558.PNG and frame_000559.PNG: 0.82
+Similarity between frame_000559.PNG and frame_000560.PNG: 0.84
+Similarity between frame_000560.PNG and frame_000564.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000564.PNG to output folder.
+Similarity between frame_000564.PNG and frame_000569.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000569.PNG to output folder.
+Similarity between frame_000569.PNG and frame_000578.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000578.PNG to output folder.
+Similarity between frame_000578.PNG and frame_000582.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000582.PNG to output folder.
+Similarity between frame_000582.PNG and frame_000585.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000585.PNG to output folder.
+Similarity between frame_000585.PNG and frame_000586.PNG: 0.82
+Similarity between frame_000586.PNG and frame_000587.PNG: 0.82
+Similarity between frame_000587.PNG and frame_000588.PNG: 0.85
+Similarity between frame_000588.PNG and frame_000590.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000590.PNG to output folder.
+Similarity between frame_000590.PNG and frame_000595.PNG: 0.82
+Similarity between frame_000595.PNG and frame_000596.PNG: 0.82
+Similarity between frame_000596.PNG and frame_000597.PNG: 0.86
+Similarity between frame_000597.PNG and frame_000598.PNG: 0.85
+Similarity between frame_000598.PNG and frame_000603.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000603.PNG to output folder.
+Similarity between frame_000603.PNG and frame_000604.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000604.PNG to output folder.
+Similarity between frame_000604.PNG and frame_000619.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000619.PNG to output folder.
+Similarity between frame_000619.PNG and frame_000622.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000622.PNG to output folder.
+Similarity between frame_000622.PNG and frame_000623.PNG: 0.81
+Similarity between frame_000623.PNG and frame_000624.PNG: 0.82
+Similarity between frame_000624.PNG and frame_000634.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000634.PNG to output folder.
+Similarity between frame_000634.PNG and frame_000661.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000661.PNG to output folder.
+Similarity between frame_000661.PNG and frame_000662.PNG: 0.83
+Similarity between frame_000662.PNG and frame_000663.PNG: 0.84
+Similarity between frame_000663.PNG and frame_000664.PNG: 0.85
+Similarity between frame_000664.PNG and frame_000673.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000673.PNG to output folder.
+Similarity between frame_000673.PNG and frame_000674.PNG: 0.84
+Similarity between frame_000674.PNG and frame_000675.PNG: 0.83
+Similarity between frame_000675.PNG and frame_000679.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000679.PNG to output folder.
+Similarity between frame_000679.PNG and frame_000682.PNG: 0.81
+Similarity between frame_000682.PNG and frame_000683.PNG: 0.86
+Similarity between frame_000683.PNG and frame_000685.PNG: 0.83
+Similarity between frame_000685.PNG and frame_000686.PNG: 0.82
+Similarity between frame_000686.PNG and frame_000715.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000715.PNG to output folder.
+Similarity between frame_000715.PNG and frame_000716.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000716.PNG to output folder.
+Similarity between frame_000716.PNG and frame_000742.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000742.PNG to output folder.
+Similarity between frame_000742.PNG and frame_000743.PNG: 0.87
+Similarity between frame_000743.PNG and frame_000750.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000750.PNG to output folder.
+Similarity between frame_000750.PNG and frame_000751.PNG: 0.82
+Similarity between frame_000751.PNG and frame_000752.PNG: 0.83
+Similarity between frame_000752.PNG and frame_000759.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000759.PNG to output folder.
+Similarity between frame_000759.PNG and frame_000760.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000760.PNG to output folder.
+Similarity between frame_000760.PNG and frame_000761.PNG: 0.81
+Similarity between frame_000761.PNG and frame_000762.PNG: 0.83
+Similarity between frame_000762.PNG and frame_000766.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000766.PNG to output folder.
+Similarity between frame_000766.PNG and frame_000767.PNG: 0.81
+Similarity between frame_000767.PNG and frame_000768.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000768.PNG to output folder.
+Similarity between frame_000768.PNG and frame_000770.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000770.PNG to output folder.
+Similarity between frame_000770.PNG and frame_000771.PNG: 0.81
+Similarity between frame_000771.PNG and frame_000774.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000774.PNG to output folder.
+Similarity between frame_000774.PNG and frame_000786.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000786.PNG to output folder.
+Similarity between frame_000786.PNG and frame_000787.PNG: 0.85
+Similarity between frame_000787.PNG and frame_000788.PNG: 0.83
+Similarity between frame_000788.PNG and frame_000789.PNG: 0.82
+Similarity between frame_000789.PNG and frame_000795.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000795.PNG to output folder.
+Similarity between frame_000795.PNG and frame_000796.PNG: 0.74
+  --- Images are dissimilar. Copying frame_000796.PNG to output folder.
+Similarity between frame_000796.PNG and frame_000797.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000797.PNG to output folder.
+Similarity between frame_000797.PNG and frame_000804.PNG: 0.72
+  --- Images are dissimilar. Copying frame_000804.PNG to output folder.
+Similarity between frame_000804.PNG and frame_000805.PNG: 0.83
+Similarity between frame_000805.PNG and frame_000809.PNG: 0.80
+Similarity between frame_000809.PNG and frame_000810.PNG: 0.82
+Similarity between frame_000810.PNG and frame_000812.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000812.PNG to output folder.
+Similarity between frame_000812.PNG and frame_000813.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000813.PNG to output folder.
+Similarity between frame_000813.PNG and frame_000814.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000814.PNG to output folder.
+Similarity between frame_000814.PNG and frame_000815.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000815.PNG to output folder.
+Similarity between frame_000815.PNG and frame_000816.PNG: 0.82
+Similarity between frame_000816.PNG and frame_000817.PNG: 0.84
+Similarity between frame_000817.PNG and frame_000818.PNG: 0.82
+Similarity between frame_000818.PNG and frame_000822.PNG: 0.80
+Similarity between frame_000822.PNG and frame_000825.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000825.PNG to output folder.
+Similarity between frame_000825.PNG and frame_000826.PNG: 0.80
+Similarity between frame_000826.PNG and frame_000838.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000838.PNG to output folder.
+Similarity between frame_000838.PNG and frame_000839.PNG: 0.83
+Similarity between frame_000839.PNG and frame_000843.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000843.PNG to output folder.
+Similarity between frame_000843.PNG and frame_000844.PNG: 0.85
+Similarity between frame_000844.PNG and frame_000845.PNG: 0.85
+Similarity between frame_000845.PNG and frame_000846.PNG: 0.84
+Similarity between frame_000846.PNG and frame_000847.PNG: 0.83
+Similarity between frame_000847.PNG and frame_000848.PNG: 0.82
+Similarity between frame_000848.PNG and frame_000850.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000850.PNG to output folder.
+Similarity between frame_000850.PNG and frame_000851.PNG: 0.84
+Similarity between frame_000851.PNG and frame_000852.PNG: 0.84
+Similarity between frame_000852.PNG and frame_000853.PNG: 0.83
+Similarity between frame_000853.PNG and frame_000854.PNG: 0.82
+Similarity between frame_000854.PNG and frame_000855.PNG: 0.83
+Similarity between frame_000855.PNG and frame_000857.PNG: 0.82
+Similarity between frame_000857.PNG and frame_000858.PNG: 0.84
+Similarity between frame_000858.PNG and frame_000859.PNG: 0.84
+Similarity between frame_000859.PNG and frame_000860.PNG: 0.83
+Similarity between frame_000860.PNG and frame_000885.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000885.PNG to output folder.
+Similarity between frame_000885.PNG and frame_000890.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000890.PNG to output folder.
+Similarity between frame_000890.PNG and frame_000891.PNG: 0.81
+Similarity between frame_000891.PNG and frame_000892.PNG: 0.83
+Similarity between frame_000892.PNG and frame_000906.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000906.PNG to output folder.
+Similarity between frame_000906.PNG and frame_000908.PNG: 0.84
+Similarity between frame_000908.PNG and frame_000909.PNG: 0.85
+Similarity between frame_000909.PNG and frame_000920.PNG: 0.80
+Similarity between frame_000920.PNG and frame_000921.PNG: 0.84
+Similarity between frame_000921.PNG and frame_000922.PNG: 0.85
+Similarity between frame_000922.PNG and frame_000923.PNG: 0.85
+Similarity between frame_000923.PNG and frame_000929.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000929.PNG to output folder.
+Similarity between frame_000929.PNG and frame_000933.PNG: 0.81
+Similarity between frame_000933.PNG and frame_000935.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000935.PNG to output folder.
+Similarity between frame_000935.PNG and frame_000938.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000938.PNG to output folder.
+Similarity between frame_000938.PNG and frame_000939.PNG: 0.85
+Similarity between frame_000939.PNG and frame_000944.PNG: 0.81
+Similarity between frame_000944.PNG and frame_000975.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000975.PNG to output folder.
+Similarity between frame_000975.PNG and frame_000980.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000980.PNG to output folder.
+Similarity between frame_000980.PNG and frame_000982.PNG: 0.80
+  --- Images are dissimilar. Copying frame_000982.PNG to output folder.
+Similarity between frame_000982.PNG and frame_000983.PNG: 0.85
+Similarity between frame_000983.PNG and frame_000984.PNG: 0.84
+Similarity between frame_000984.PNG and frame_000986.PNG: 0.80
+Similarity between frame_000986.PNG and frame_000987.PNG: 0.82
+Similarity between frame_000987.PNG and frame_000989.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000989.PNG to output folder.
+Similarity between frame_000989.PNG and frame_000990.PNG: 0.81
+Similarity between frame_000990.PNG and frame_000991.PNG: 0.80
+Similarity between frame_000991.PNG and frame_000992.PNG: 0.81
+Similarity between frame_000992.PNG and frame_000993.PNG: 0.81
+Similarity between frame_000993.PNG and frame_000994.PNG: 0.81
+Similarity between frame_000994.PNG and frame_000995.PNG: 0.81
+Similarity between frame_000995.PNG and frame_000996.PNG: 0.83
+Similarity between frame_000996.PNG and frame_000997.PNG: 0.82
+Similarity between frame_000997.PNG and frame_000998.PNG: 0.82
+Similarity between frame_000998.PNG and frame_000999.PNG: 0.83
+Similarity between frame_000999.PNG and frame_001006.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001006.PNG to output folder.
+Similarity between frame_001006.PNG and frame_001008.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001008.PNG to output folder.
+Similarity between frame_001008.PNG and frame_001012.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001012.PNG to output folder.
+Similarity between frame_001012.PNG and frame_001025.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001025.PNG to output folder.
+Similarity between frame_001025.PNG and frame_001027.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001027.PNG to output folder.
+Similarity between frame_001027.PNG and frame_001028.PNG: 0.81
+Similarity between frame_001028.PNG and frame_001043.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001043.PNG to output folder.
+Similarity between frame_001043.PNG and frame_001047.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001047.PNG to output folder.
+Similarity between frame_001047.PNG and frame_001082.PNG: 0.71
+  --- Images are dissimilar. Copying frame_001082.PNG to output folder.
+Similarity between frame_001082.PNG and frame_001083.PNG: 0.83
+Similarity between frame_001083.PNG and frame_001085.PNG: 0.82
+Similarity between frame_001085.PNG and frame_001086.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001086.PNG to output folder.
+Similarity between frame_001086.PNG and frame_001087.PNG: 0.81
+Similarity between frame_001087.PNG and frame_001088.PNG: 0.84
+Similarity between frame_001088.PNG and frame_001089.PNG: 0.85
+Similarity between frame_001089.PNG and frame_001111.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001111.PNG to output folder.
+Similarity between frame_001111.PNG and frame_001112.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001112.PNG to output folder.
+Similarity between frame_001112.PNG and frame_001113.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001113.PNG to output folder.
+Similarity between frame_001113.PNG and frame_001114.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001114.PNG to output folder.
+Similarity between frame_001114.PNG and frame_001118.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001118.PNG to output folder.
+Similarity between frame_001118.PNG and frame_001119.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001119.PNG to output folder.
+Similarity between frame_001119.PNG and frame_001120.PNG: 0.81
+Similarity between frame_001120.PNG and frame_001123.PNG: 0.73
+  --- Images are dissimilar. Copying frame_001123.PNG to output folder.
+Similarity between frame_001123.PNG and frame_001124.PNG: 0.80
+Similarity between frame_001124.PNG and frame_001141.PNG: 0.73
+  --- Images are dissimilar. Copying frame_001141.PNG to output folder.
+Similarity between frame_001141.PNG and frame_001142.PNG: 0.82
+Similarity between frame_001142.PNG and frame_001150.PNG: 0.70
+  --- Images are dissimilar. Copying frame_001150.PNG to output folder.
+Similarity between frame_001150.PNG and frame_001152.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001152.PNG to output folder.
+Similarity between frame_001152.PNG and frame_001154.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001154.PNG to output folder.
+Similarity between frame_001154.PNG and frame_001155.PNG: 0.83
+Similarity between frame_001155.PNG and frame_001156.PNG: 0.83
+Similarity between frame_001156.PNG and frame_001163.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001163.PNG to output folder.
+Similarity between frame_001163.PNG and frame_001164.PNG: 0.84
+Similarity between frame_001164.PNG and frame_001173.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001173.PNG to output folder.
+Similarity between frame_001173.PNG and frame_001174.PNG: 0.82
+Similarity between frame_001174.PNG and frame_001175.PNG: 0.83
+Similarity between frame_001175.PNG and frame_001177.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001177.PNG to output folder.
+Similarity between frame_001177.PNG and frame_001178.PNG: 0.84
+Similarity between frame_001178.PNG and frame_001179.PNG: 0.84
+Similarity between frame_001179.PNG and frame_001180.PNG: 0.83
+Similarity between frame_001180.PNG and frame_001181.PNG: 0.82
+Similarity between frame_001181.PNG and frame_001182.PNG: 0.86
+Similarity between frame_001182.PNG and frame_001183.PNG: 0.85
+Similarity between frame_001183.PNG and frame_001184.PNG: 0.84
+Similarity between frame_001184.PNG and frame_001185.PNG: 0.85
+Similarity between frame_001185.PNG and frame_001192.PNG: 0.80
+Similarity between frame_001192.PNG and frame_001193.PNG: 0.87
+Similarity between frame_001193.PNG and frame_001194.PNG: 0.86
+Similarity between frame_001194.PNG and frame_001195.PNG: 0.86
+Similarity between frame_001195.PNG and frame_001196.PNG: 0.84
+Similarity between frame_001196.PNG and frame_001203.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001203.PNG to output folder.
+Similarity between frame_001203.PNG and frame_001204.PNG: 0.87
+Similarity between frame_001204.PNG and frame_001209.PNG: 0.82
+Similarity between frame_001209.PNG and frame_001210.PNG: 0.87
+Similarity between frame_001210.PNG and frame_001212.PNG: 0.82
+Similarity between frame_001212.PNG and frame_001217.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001217.PNG to output folder.
+Similarity between frame_001217.PNG and frame_001218.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001218.PNG to output folder.
+Similarity between frame_001218.PNG and frame_001219.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001219.PNG to output folder.
+Similarity between frame_001219.PNG and frame_001220.PNG: 0.80
+Similarity between frame_001220.PNG and frame_001221.PNG: 0.83
+Similarity between frame_001221.PNG and frame_001222.PNG: 0.85
+Similarity between frame_001222.PNG and frame_001227.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001227.PNG to output folder.
+Similarity between frame_001227.PNG and frame_001228.PNG: 0.83
+Similarity between frame_001228.PNG and frame_001234.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001234.PNG to output folder.
+Similarity between frame_001234.PNG and frame_001235.PNG: 0.84
+Similarity between frame_001235.PNG and frame_001236.PNG: 0.86
+Similarity between frame_001236.PNG and frame_001237.PNG: 0.85
+Similarity between frame_001237.PNG and frame_001243.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001243.PNG to output folder.
+Similarity between frame_001243.PNG and frame_001244.PNG: 0.81
+Similarity between frame_001244.PNG and frame_001245.PNG: 0.80
+Similarity between frame_001245.PNG and frame_001246.PNG: 0.82
+Similarity between frame_001246.PNG and frame_001247.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001247.PNG to output folder.
+Similarity between frame_001247.PNG and frame_001248.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001248.PNG to output folder.
+Similarity between frame_001248.PNG and frame_001249.PNG: 0.80
+Similarity between frame_001249.PNG and frame_001250.PNG: 0.82
+Similarity between frame_001250.PNG and frame_001254.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001254.PNG to output folder.
+Similarity between frame_001254.PNG and frame_001255.PNG: 0.85
+Similarity between frame_001255.PNG and frame_001256.PNG: 0.86
+Similarity between frame_001256.PNG and frame_001260.PNG: 0.81
+Similarity between frame_001260.PNG and frame_001263.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001263.PNG to output folder.
+Similarity between frame_001263.PNG and frame_001264.PNG: 0.83
+Similarity between frame_001264.PNG and frame_001265.PNG: 0.83
+Similarity between frame_001265.PNG and frame_001269.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001269.PNG to output folder.
+Similarity between frame_001269.PNG and frame_001274.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001274.PNG to output folder.
+Similarity between frame_001274.PNG and frame_001275.PNG: 0.84
+Similarity between frame_001275.PNG and frame_001276.PNG: 0.80
+Similarity between frame_001276.PNG and frame_001285.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001285.PNG to output folder.
+Similarity between frame_001285.PNG and frame_001286.PNG: 0.87
+Similarity between frame_001286.PNG and frame_001287.PNG: 0.86
+Similarity between frame_001287.PNG and frame_001288.PNG: 0.85
+Similarity between frame_001288.PNG and frame_001289.PNG: 0.85
+Similarity between frame_001289.PNG and frame_001290.PNG: 0.84
+Similarity between frame_001290.PNG and frame_001292.PNG: 0.81
+Similarity between frame_001292.PNG and frame_001293.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001293.PNG to output folder.
+Similarity between frame_001293.PNG and frame_001294.PNG: 0.83
+Similarity between frame_001294.PNG and frame_001297.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001297.PNG to output folder.
+Similarity between frame_001297.PNG and frame_001298.PNG: 0.84
+Similarity between frame_001298.PNG and frame_001302.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001302.PNG to output folder.
+Similarity between frame_001302.PNG and frame_001303.PNG: 0.86
+Similarity between frame_001303.PNG and frame_001304.PNG: 0.86
+Similarity between frame_001304.PNG and frame_001305.PNG: 0.86
+Similarity between frame_001305.PNG and frame_001307.PNG: 0.85
+Similarity between frame_001307.PNG and frame_001308.PNG: 0.87
+Similarity between frame_001308.PNG and frame_001309.PNG: 0.85
+Similarity between frame_001309.PNG and frame_001314.PNG: 0.83
+Similarity between frame_001314.PNG and frame_001315.PNG: 0.84
+Similarity between frame_001315.PNG and frame_001320.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001320.PNG to output folder.
+Similarity between frame_001320.PNG and frame_001324.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001324.PNG to output folder.
+Similarity between frame_001324.PNG and frame_001325.PNG: 0.82
+Similarity between frame_001325.PNG and frame_001326.PNG: 0.86
+Similarity between frame_001326.PNG and frame_001354.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001354.PNG to output folder.
+Similarity between frame_001354.PNG and frame_001367.PNG: 0.80
+Similarity between frame_001367.PNG and frame_001411.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001411.PNG to output folder.
+Similarity between frame_001411.PNG and frame_001413.PNG: 0.83
+Similarity between frame_001413.PNG and frame_001414.PNG: 0.87
+Similarity between frame_001414.PNG and frame_001428.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001428.PNG to output folder.
+Similarity between frame_001428.PNG and frame_001433.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001433.PNG to output folder.
+Similarity between frame_001433.PNG and frame_001465.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001465.PNG to output folder.
+Similarity between frame_001465.PNG and frame_001466.PNG: 0.83
+Similarity between frame_001466.PNG and frame_001467.PNG: 0.82
+Similarity between frame_001467.PNG and frame_001468.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001468.PNG to output folder.
+Similarity between frame_001468.PNG and frame_001469.PNG: 0.81
+Similarity between frame_001469.PNG and frame_001470.PNG: 0.80
+  --- Images are dissimilar. Copying frame_001470.PNG to output folder.
+Similarity between frame_001470.PNG and frame_001471.PNG: 0.81
+Similarity between frame_001471.PNG and frame_001476.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001476.PNG to output folder.
+Similarity between frame_001476.PNG and frame_001477.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001477.PNG to output folder.
+Similarity between frame_001477.PNG and frame_001478.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001478.PNG to output folder.
+Similarity between frame_001478.PNG and frame_001479.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001479.PNG to output folder.
+Similarity between frame_001479.PNG and frame_001480.PNG: 0.83
+Similarity between frame_001480.PNG and frame_001481.PNG: 0.84
+Similarity between frame_001481.PNG and frame_001482.PNG: 0.81
+Similarity between frame_001482.PNG and frame_001499.PNG: 0.64
+  --- Images are dissimilar. Copying frame_001499.PNG to output folder.
+Similarity between frame_001499.PNG and frame_001500.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001500.PNG to output folder.
+Similarity between frame_001500.PNG and frame_001501.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001501.PNG to output folder.
+Similarity between frame_001501.PNG and frame_001502.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001502.PNG to output folder.
+Similarity between frame_001502.PNG and frame_001503.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001503.PNG to output folder.
+Images before comparison: 285, after comparison: 122
+Finished comparing and filtering out dissimilar images. Filtered: 121
+122 images in D:\FlagDetectionDatasets\ExportedDatasetsReduced\Job_27\obj_train_data.
+Similarity between frame_000500.PNG and frame_000503.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000503.PNG to output folder.
+Similarity between frame_000503.PNG and frame_000510.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000510.PNG to output folder.
+Similarity between frame_000510.PNG and frame_000511.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000511.PNG to output folder.
+Similarity between frame_000511.PNG and frame_000512.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000512.PNG to output folder.
+Similarity between frame_000512.PNG and frame_000515.PNG: 0.80
+Similarity between frame_000515.PNG and frame_000520.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000520.PNG to output folder.
+Similarity between frame_000520.PNG and frame_000521.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000521.PNG to output folder.
+Similarity between frame_000521.PNG and frame_000522.PNG: 0.79
+Similarity between frame_000522.PNG and frame_000527.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000527.PNG to output folder.
+Similarity between frame_000527.PNG and frame_000529.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000529.PNG to output folder.
+Similarity between frame_000529.PNG and frame_000532.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000532.PNG to output folder.
+Similarity between frame_000532.PNG and frame_000538.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000538.PNG to output folder.
+Similarity between frame_000538.PNG and frame_000539.PNG: 0.80
+Similarity between frame_000539.PNG and frame_000552.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000552.PNG to output folder.
+Similarity between frame_000552.PNG and frame_000554.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000554.PNG to output folder.
+Similarity between frame_000554.PNG and frame_000557.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000557.PNG to output folder.
+Similarity between frame_000557.PNG and frame_000564.PNG: 0.79
+Similarity between frame_000564.PNG and frame_000569.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000569.PNG to output folder.
+Similarity between frame_000569.PNG and frame_000578.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000578.PNG to output folder.
+Similarity between frame_000578.PNG and frame_000582.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000582.PNG to output folder.
+Similarity between frame_000582.PNG and frame_000585.PNG: 0.80
+Similarity between frame_000585.PNG and frame_000590.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000590.PNG to output folder.
+Similarity between frame_000590.PNG and frame_000603.PNG: 0.80
+Similarity between frame_000603.PNG and frame_000604.PNG: 0.79
+Similarity between frame_000604.PNG and frame_000619.PNG: 0.76
+  --- Images are dissimilar. Copying frame_000619.PNG to output folder.
+Similarity between frame_000619.PNG and frame_000622.PNG: 0.79
+Similarity between frame_000622.PNG and frame_000634.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000634.PNG to output folder.
+Similarity between frame_000634.PNG and frame_000661.PNG: 0.80
+Similarity between frame_000661.PNG and frame_000673.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000673.PNG to output folder.
+Similarity between frame_000673.PNG and frame_000679.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000679.PNG to output folder.
+Similarity between frame_000679.PNG and frame_000715.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000715.PNG to output folder.
+Similarity between frame_000715.PNG and frame_000716.PNG: 0.80
+Similarity between frame_000716.PNG and frame_000742.PNG: 0.79
+Similarity between frame_000742.PNG and frame_000750.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000750.PNG to output folder.
+Similarity between frame_000750.PNG and frame_000759.PNG: 0.73
+  --- Images are dissimilar. Copying frame_000759.PNG to output folder.
+Similarity between frame_000759.PNG and frame_000760.PNG: 0.80
+Similarity between frame_000760.PNG and frame_000766.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000766.PNG to output folder.
+Similarity between frame_000766.PNG and frame_000768.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000768.PNG to output folder.
+Similarity between frame_000768.PNG and frame_000770.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000770.PNG to output folder.
+Similarity between frame_000770.PNG and frame_000774.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000774.PNG to output folder.
+Similarity between frame_000774.PNG and frame_000786.PNG: 0.79
+Similarity between frame_000786.PNG and frame_000795.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000795.PNG to output folder.
+Similarity between frame_000795.PNG and frame_000796.PNG: 0.74
+  --- Images are dissimilar. Copying frame_000796.PNG to output folder.
+Similarity between frame_000796.PNG and frame_000797.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000797.PNG to output folder.
+Similarity between frame_000797.PNG and frame_000804.PNG: 0.72
+  --- Images are dissimilar. Copying frame_000804.PNG to output folder.
+Similarity between frame_000804.PNG and frame_000812.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000812.PNG to output folder.
+Similarity between frame_000812.PNG and frame_000813.PNG: 0.79
+Similarity between frame_000813.PNG and frame_000814.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000814.PNG to output folder.
+Similarity between frame_000814.PNG and frame_000815.PNG: 0.80
+Similarity between frame_000815.PNG and frame_000825.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000825.PNG to output folder.
+Similarity between frame_000825.PNG and frame_000838.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000838.PNG to output folder.
+Similarity between frame_000838.PNG and frame_000843.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000843.PNG to output folder.
+Similarity between frame_000843.PNG and frame_000850.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000850.PNG to output folder.
+Similarity between frame_000850.PNG and frame_000885.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000885.PNG to output folder.
+Similarity between frame_000885.PNG and frame_000890.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000890.PNG to output folder.
+Similarity between frame_000890.PNG and frame_000906.PNG: 0.75
+  --- Images are dissimilar. Copying frame_000906.PNG to output folder.
+Similarity between frame_000906.PNG and frame_000929.PNG: 0.80
+Similarity between frame_000929.PNG and frame_000935.PNG: 0.79
+  --- Images are dissimilar. Copying frame_000935.PNG to output folder.
+Similarity between frame_000935.PNG and frame_000938.PNG: 0.77
+  --- Images are dissimilar. Copying frame_000938.PNG to output folder.
+Similarity between frame_000938.PNG and frame_000975.PNG: 0.80
+Similarity between frame_000975.PNG and frame_000980.PNG: 0.78
+  --- Images are dissimilar. Copying frame_000980.PNG to output folder.
+Similarity between frame_000980.PNG and frame_000982.PNG: 0.80
+Similarity between frame_000982.PNG and frame_000989.PNG: 0.79
+Similarity between frame_000989.PNG and frame_001006.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001006.PNG to output folder.
+Similarity between frame_001006.PNG and frame_001008.PNG: 0.80
+Similarity between frame_001008.PNG and frame_001012.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001012.PNG to output folder.
+Similarity between frame_001012.PNG and frame_001025.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001025.PNG to output folder.
+Similarity between frame_001025.PNG and frame_001027.PNG: 0.80
+Similarity between frame_001027.PNG and frame_001043.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001043.PNG to output folder.
+Similarity between frame_001043.PNG and frame_001047.PNG: 0.79
+Similarity between frame_001047.PNG and frame_001082.PNG: 0.71
+  --- Images are dissimilar. Copying frame_001082.PNG to output folder.
+Similarity between frame_001082.PNG and frame_001086.PNG: 0.80
+Similarity between frame_001086.PNG and frame_001111.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001111.PNG to output folder.
+Similarity between frame_001111.PNG and frame_001112.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001112.PNG to output folder.
+Similarity between frame_001112.PNG and frame_001113.PNG: 0.79
+Similarity between frame_001113.PNG and frame_001114.PNG: 0.80
+Similarity between frame_001114.PNG and frame_001118.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001118.PNG to output folder.
+Similarity between frame_001118.PNG and frame_001119.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001119.PNG to output folder.
+Similarity between frame_001119.PNG and frame_001123.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001123.PNG to output folder.
+Similarity between frame_001123.PNG and frame_001141.PNG: 0.73
+  --- Images are dissimilar. Copying frame_001141.PNG to output folder.
+Similarity between frame_001141.PNG and frame_001150.PNG: 0.70
+  --- Images are dissimilar. Copying frame_001150.PNG to output folder.
+Similarity between frame_001150.PNG and frame_001152.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001152.PNG to output folder.
+Similarity between frame_001152.PNG and frame_001154.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001154.PNG to output folder.
+Similarity between frame_001154.PNG and frame_001163.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001163.PNG to output folder.
+Similarity between frame_001163.PNG and frame_001173.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001173.PNG to output folder.
+Similarity between frame_001173.PNG and frame_001177.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001177.PNG to output folder.
+Similarity between frame_001177.PNG and frame_001203.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001203.PNG to output folder.
+Similarity between frame_001203.PNG and frame_001217.PNG: 0.79
+Similarity between frame_001217.PNG and frame_001218.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001218.PNG to output folder.
+Similarity between frame_001218.PNG and frame_001219.PNG: 0.79
+Similarity between frame_001219.PNG and frame_001227.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001227.PNG to output folder.
+Similarity between frame_001227.PNG and frame_001234.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001234.PNG to output folder.
+Similarity between frame_001234.PNG and frame_001243.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001243.PNG to output folder.
+Similarity between frame_001243.PNG and frame_001247.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001247.PNG to output folder.
+Similarity between frame_001247.PNG and frame_001248.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001248.PNG to output folder.
+Similarity between frame_001248.PNG and frame_001254.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001254.PNG to output folder.
+Similarity between frame_001254.PNG and frame_001263.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001263.PNG to output folder.
+Similarity between frame_001263.PNG and frame_001269.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001269.PNG to output folder.
+Similarity between frame_001269.PNG and frame_001274.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001274.PNG to output folder.
+Similarity between frame_001274.PNG and frame_001285.PNG: 0.80
+Similarity between frame_001285.PNG and frame_001293.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001293.PNG to output folder.
+Similarity between frame_001293.PNG and frame_001297.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001297.PNG to output folder.
+Similarity between frame_001297.PNG and frame_001302.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001302.PNG to output folder.
+Similarity between frame_001302.PNG and frame_001320.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001320.PNG to output folder.
+Similarity between frame_001320.PNG and frame_001324.PNG: 0.80
+Similarity between frame_001324.PNG and frame_001354.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001354.PNG to output folder.
+Similarity between frame_001354.PNG and frame_001411.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001411.PNG to output folder.
+Similarity between frame_001411.PNG and frame_001428.PNG: 0.80
+Similarity between frame_001428.PNG and frame_001433.PNG: 0.76
+  --- Images are dissimilar. Copying frame_001433.PNG to output folder.
+Similarity between frame_001433.PNG and frame_001465.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001465.PNG to output folder.
+Similarity between frame_001465.PNG and frame_001468.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001468.PNG to output folder.
+Similarity between frame_001468.PNG and frame_001470.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001470.PNG to output folder.
+Similarity between frame_001470.PNG and frame_001476.PNG: 0.72
+  --- Images are dissimilar. Copying frame_001476.PNG to output folder.
+Similarity between frame_001476.PNG and frame_001477.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001477.PNG to output folder.
+Similarity between frame_001477.PNG and frame_001478.PNG: 0.78
+  --- Images are dissimilar. Copying frame_001478.PNG to output folder.
+Similarity between frame_001478.PNG and frame_001479.PNG: 0.79
+  --- Images are dissimilar. Copying frame_001479.PNG to output folder.
+Similarity between frame_001479.PNG and frame_001499.PNG: 0.64
+  --- Images are dissimilar. Copying frame_001499.PNG to output folder.
+Similarity between frame_001499.PNG and frame_001500.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001500.PNG to output folder.
+Similarity between frame_001500.PNG and frame_001501.PNG: 0.75
+  --- Images are dissimilar. Copying frame_001501.PNG to output folder.
+Similarity between frame_001501.PNG and frame_001502.PNG: 0.74
+  --- Images are dissimilar. Copying frame_001502.PNG to output folder.
+Similarity between frame_001502.PNG and frame_001503.PNG: 0.77
+  --- Images are dissimilar. Copying frame_001503.PNG to output folder.
+Images before comparison: 122, after comparison: 92
+Finished comparing and filtering out dissimilar images. Filtered: 91
