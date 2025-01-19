@@ -1,0 +1,14 @@
+# Path to the dataset
+path: D:/FlagDetectionDatasets/ExportedDatasetsSelectedML_A/train
+
+# Paths to training, validation and test datasets
+train: D:/FlagDetectionDatasets/ExportedDatasetsSelectedML_A/train
+test: D:/FlagDetectionDatasets/ExportedDatasetsSelectedML_A/test
+val: D:/FlagDetectionDatasets/ExportedDatasetsSelectedML_A/val
+
+# Number of classes
+nc: 2
+
+# Class names
+#names: ['red_flag', 'red_yellow_flag', 'blue_flag', 'green_coast', 'flagpole', 'parasol', 'surf_zone' ]
+names: ['red_flag', 'red_yellow_flag']
